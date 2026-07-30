@@ -1,0 +1,176 @@
+{
+  "mission_id": "mission_01",
+  "mission_info": "Nom : {color=#ff0000}Jean Ranoud{/color}\nContact : 06.25.15.24.26\nIp : 90.34.216.1\nLoc : Lyon\nLogiciel : What's app\nStatut : {color=#ff0000}En ligne{/color}",
+  "title": "Fille perdue",
+  "participants": {
+    "player": {
+      "id": "player",
+      "name": "Vous",
+      "avatar": "player"
+    },
+    "interlocutor": {
+      "id": "jean",
+      "name": "Jean Ranoud",
+      "avatar": "Jean",   
+      "protocole": "Non sécurisé.",
+      "statut": "En ligne",
+      "contact": "06.25.15.24.26"
+    }
+  },
+  "conversation": [
+    {
+      "id": "msg_001",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:12:00",
+      "type": "text",
+      "content": "Bonjour WhiteHat.",
+      "typing_delay": 0.5
+    },
+    {
+      "id": "msg_002",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:12:02",
+      "type": "text",
+      "copydata": true,
+      "copydataValue": "RelayGhost",
+      "content": "Je viens de la part de {i}RelayGhost{/i}, il faut faire vite !",
+      "typing_delay": 0.5,
+      "auto_next": 1
+    },
+    {
+      "id": "msg_003",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:12:04",
+      "type": "text",
+      "copydata": true,
+      "copydataValue": "Alizée",
+      "content": "Vous devez m'aider à retrouver Alizée ! C'est urgent !",
+      "typing_delay": 0.02
+    },
+    {
+      "id": "msg_003",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:12:06",
+      "type": "narratif",
+      "content": "Quel débit de paroles !",
+      "typing_delay": 0.02
+    },
+    {
+      "id": "msg_003b",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:12:06",
+      "type": "text",
+      "content": "STOP !",
+      "typing_delay": 0.02
+    },
+    {
+      "id": "choice_001",
+      "sender": "player",
+      "type": "choice",
+      "timestamp": "2026-01-24T09:12:06",
+      "delay_to_answer": 1,
+      "choices": [
+        {
+          "id": "d1c1_hello",
+          "text": "Bonjour.",
+          "next": "msg_004a",
+          "condition": "",
+          "consequence": ""
+        },
+        {
+          "id": "d1c2_hello",
+          "text": "Le laisser parler.",
+          "next": "msg_004b"
+        }
+      ]
+    },    
+    {
+      "id": "msg_004a",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:12:06",
+      "type": "text",
+      "next": "msg_006",
+      "content": "Bonjour, un instant vous allez trop vite. Qui est Alizée ?",
+      "attachments": []
+    },
+    {
+      "id": "msg_004b",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:14:02",
+      "type": "text",
+      "next": "msg_006",
+      "content": "Je suis sur qu'elle a été enlevé par une secte ou je ne sais quoi, c'est une fille tranquille qui ne sort jamais !",
+      "attachments": []
+    },
+    {
+      "id": "msg_005",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:14:45",
+      "type": "text",
+      "copydata": true,
+      "copydataValue": "Photo d'Alizée",
+      "content": "Elle a 17 ans ! Je vous en pris aidez-moi ! Voici une photo d'elle.",
+      "attachments": [
+        {
+          "type": "image",
+          "path": "Images/Mission1/Alizee_triste.png",
+          "caption": "Portrait Alizee"
+        }
+      ]
+    },
+    {
+      "id": "msg_006",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:15:10",
+      "type": "text",
+      "content": "La police est trop lente, elle a disparu depuis 24h. J'ai son téléphone, y'a toute sa vie dedans, mais je n'arrive pas à rentrer.",
+      "attachments": []
+    },
+    {
+      "id": "msg_007",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:16:02",
+      "type": "text",
+      "content": "C'est ma princesse ! Ma fille ! Sauvez là ! Je vous donnerez l'argent qu'il faut !",
+      "attachments": []
+    },
+    {
+      "id": "msg_008",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:16:32",
+      "type": "text",
+      "content": "Cela peut être une mission dans mes cordes, mais gardez en tête que je ne suis qu'un informatitien.",
+      "attachments": []
+    },
+    {
+      "id": "msg_009",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:17:02",
+      "type": "text",
+      "content": "Je ne me déplace pas, je reste neutre, je n'agis jamais physiquement.",
+      "attachments": []
+    },
+    {
+      "id": "msg_009",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:17:02",
+      "type": "text",
+      "content": "Je peux vous aider à comprendre mais il me faut un accès total à ses données.",
+      "attachments": []
+    },
+    {
+      "id": "msg_003",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:12:06",
+      "type": "narratif",
+      "content": "Vous lui envoyer un script à lancer sur son ordinateur qui permet de récupérer et de vous envoyer toutes les informations pertinentes du téléphone de Alizée.",
+      "typing_delay": 0.02
+    },
+    {
+      "id": "finish01",
+      "sender": "LauchMission1",
+      "type": "finish", 
+      "content": "Jean vous a ouvert les accès pour le téléphone d'alizée. Vous avez pu récupérer et trier un certain nombre d'information."
+    }
+  ]
+}

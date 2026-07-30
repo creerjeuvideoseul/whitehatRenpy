@@ -1,0 +1,220 @@
+{
+  "conversation_id": "sms_mission1_alizee_pere",
+  "participants": {
+    "sender": {
+      "id": "s",
+      "name": "Papa",
+      "avatar": "Avatars/pere"
+    },
+    "receiver": {
+      "id": "r",
+      "name": "Alizée",
+      "avatar": "Avatars/alizee"
+    }
+  },
+  "messages": [
+    {
+      "id": "msg_001",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-10-07T18:45:00",
+      "content": "Tu es où ?"
+    },
+    {
+      "id": "msg_002",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-10-07T18:50:00",
+      "content": "Ne rentre pas si tard. Il est 19h. Tu as finis l'école à 18h !"
+    },
+    {
+      "id": "msg_003",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-10-07T18:50:30",
+      "content": "J'ai discuté avec mon amie, j'arrive, il est 18h50 !scuté avec mon amie, j'arrive, il est 18h50 !scuté avec mon amie, j'arrive, il est 18h50 !"
+    },
+    {
+      "id": "msg_004",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-11-02T15:05:00",
+      "content": "Tu me diras si tu as eu des réponses de la FAQ de médecine ?"
+    },
+    {
+      "id": "msg_005",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-11-02T15:06:00",
+      "content": "Je n'ai encore rien reçu, tu sais que cela prend du temps !"
+    },
+    {
+      "id": "msg_006",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-11-15T09:05:00",
+      "content": "J'ai eu un SMS de ton lycée, tu as été en retard ce matin de 5 min. Explique toi."
+    },
+    {
+      "id": "msg_007",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-11-15T10:30:00",
+      "content": "Le bus a eu du retard, ce n'est pas ma faute !"
+    },
+    {
+      "id": "msg_008",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-11-15T10:30:30",
+      "content": "Quand on veut on peut ! Fallait partir plus tôt, on en reparle ce soir."
+    },
+    {
+      "id": "msg_009",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-11-15T10:31:00",
+      "content": "Ça ne doit pas se reproduire."
+    },
+    {
+      "id": "msg_010",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-11-30T12:04:00",
+      "content": "Appelle moi dès que tu sors."
+    },
+    {
+      "id": "msg_011",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-17T16:31:00",
+      "content": "Papa, je peux sortir samedi ? Mes amis font une fête."
+    },
+    {
+      "id": "msg_012",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-12-17T16:31:30",
+      "content": "Non pas ce samedi, ce n'est pas le moment, tu dois rattraper ton 15 en biologie !"
+    },
+    {
+      "id": "msg_013",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-17T16:32:00",
+      "content": "Mais Papa, j'ai besoin de voir mes amis de temps en temps !"
+    },
+    {
+      "id": "msg_014",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-12-17T16:32:10",
+      "content": "La prochaine fois, tu auras tout le temps une fois admise en médecine."
+    },
+    {
+      "id": "msg_015",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-17T16:32:20",
+      "content": "Tu dis toujours ça, et je ne sors jamais !"
+    },
+    {
+      "id": "msg_016",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-12-17T16:32:30",
+      "content": "Ne me parle pas sur ce ton, je fais cela pour ton bien."
+    },
+    {
+      "id": "msg_017",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-12-17T16:33:00",
+      "content": "Tu as conscience de tous les sacrifices que je fais pour payer ton éducation ?"
+    },
+    {
+      "id": "msg_018",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-17T16:33:10",
+      "content": "Oui tu me le répètes tout le temps, papa... Merci pour tes efforts."
+    },
+    {
+      "id": "msg_019",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2025-12-17T16:33:20",
+      "content": "C'est bien, on passera du temps ensemble samedi, tu voulais de nouveaux vêtements ?"
+    },
+    {
+      "id": "msg_020",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-17T16:33:30",
+      "content": "Oui, merci."
+    },
+    {
+      "id": "msg_021",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-12T12:04:00",
+      "content": "15 en biologie. Qu'est-ce qui s'est passé ?"
+    },
+    {
+      "id": "msg_022",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-12T12:04:10",
+      "content": "C'est une bonne note..."
+    },
+    {
+      "id": "msg_023",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-12T12:04:20",
+      "content": "Pas pour médecine."
+    },
+    {
+      "id": "msg_024",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-12T12:04:30",
+      "content": "Tu manques de concentration."
+    },
+    {
+      "id": "msg_025",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-12T12:04:40",
+      "content": "Désolée."
+    },
+    {
+      "id": "msg_026",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-12T12:04:50",
+      "content": "Pas grave, je vais te trouver un prof particulier. Ne t'inquiète pas."
+    },
+    {
+      "id": "msg_027",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-02-01T18:45:00",
+      "content": "Tu es où ?"
+    },
+    {
+      "id": "msg_028",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-02-01T18:45:30",
+      "content": "Réponds ! Je m'inquiète !"
+    },
+    {
+      "id": "msg_029",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-02-01T18:45:50",
+      "content": "ALIZÉE !"
+    }
+  ]
+}

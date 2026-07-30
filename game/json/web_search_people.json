@@ -1,0 +1,138 @@
+{
+  "alizee": {
+    "meta": {
+      "query": "Sophie Marchand",
+      "query_date": "2024-11-14T03:42:17Z",
+      "sources_scanned": 47
+    },
+
+    "identity": {
+      "full_name": "Sophie Elise Marchand",
+      "aliases": [ "sophiem_pro", "s.marchand", "SophMarc84", "elise_m" ],
+      "age": 39,
+      "birth_date": "1985-03-22",
+      "birth_city": "Toulouse",
+      "gender": "F",
+      "nationality": "FR",
+      "marital_status": "divorced",
+      "children_count": 2
+    },
+    "location": {
+      "current": {
+        "city": "Lyon",
+        "zip": "69003",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "FR",
+        "address_partial": "Rue de la Barre, 69XXX Lyon",
+        "since": "2021-06"
+      }
+    },
+    "contact": {
+      "emails": [
+        {
+          "address": "sophie.marchand@gmail.com",
+          "status": "active",
+          "first_seen": "2008-04-11",
+          "leaked": true,
+          "leak_count": 4
+        },
+        {
+          "address": "sophiemarchand1985@yahoo.fr",
+          "status": "inactive",
+          "first_seen": "2003-07-22",
+          "leaked": true,
+          "leak_count": 2
+        }
+      ],
+      "phones": [
+        {
+          "number": "+33 6 XX XX 12 74",
+          "type": "mobile",
+          "operator": "SFR",
+          "status": "active",
+          "sim_swapped": false,
+          "linked_accounts": [ "WhatsApp", "Telegram" ]
+        },
+        {
+          "number": "+33 4 78 XX XX 31",
+          "type": "landline",
+          "operator": "Orange",
+          "status": "unknown"
+        }
+      ]
+    },
+    "passwords_found": [
+      {
+        "value": "Toulouse31!",
+        "source": "Adobe 2013",
+        "cracked": true
+      },
+      {
+        "value": "Lyon2021#Sophie",
+        "source": "RockYou2024",
+        "cracked": true
+      }
+    ],
+    "financial": {
+      "iban_partial": "FR76 1820 6002 XXXX XXXX XXXX XXX",
+      "bank_name": "Crédit Agricole Centre-Est (supposé)",
+      "crypto_wallets": [],
+      "online_purchases_platforms": [ "Amazon.fr", "Vinted", "Fnac" ],
+      "estimated_net_worth": "faible-moyen",
+      "debt_signals": false
+    },
+    "relationships": {
+      "family": [
+        {
+          "name": "Marc Marchand",
+          "relation": "père",
+          "city": "Toulouse",
+          "age": 72
+        },
+        {
+          "name": "Isabelle Marchand",
+          "relation": "mère",
+          "city": "Toulouse",
+          "age": 68
+        },
+        {
+          "name": "Thomas Roche",
+          "relation": "ex-conjoint",
+          "city": "Bordeaux",
+          "age": 44
+        }
+      ],
+      "known_associates": [
+        {
+          "name": "Julie Faure",
+          "relation": "collègue confirmée LinkedIn",
+          "platform": "LinkedIn"
+        },
+        {
+          "name": "kevin_31_tls",
+          "relation": "contact Discord non identifié",
+          "platform": "Discord"
+        }
+      ]
+    },
+    "photos_found": [
+      {
+        "source": "Instagram",
+        "count": 87,
+        "faces_detected": true,
+        "geotagged": "parfois"
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1,
+        "type": "profil professionnel"
+      },
+      {
+        "source": "leak_forumachat",
+        "count": 1,
+        "type": "photo_de_profil_2019"
+      }
+    ]
+
+  }
+}

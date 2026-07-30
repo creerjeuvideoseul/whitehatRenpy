@@ -1,0 +1,155 @@
+{
+  "jean": {
+    "meta": {
+      "query": "Jean Ranoud",
+      "query_date": "2024-11-14T03:42:17Z",
+      "sources_scanned": 23
+    },
+
+    "identity": {
+      "full_name": "Jean Patrick George Ranoud",
+      "aliases": [ "jean_ranoud", "j.ranoud", "Cowboy72", "George72" ],
+      "age": 50,
+      "birth_date": "1972-03-22",
+      "birth_city": "Toulouse",
+      "gender": "M",
+      "nationality": "FR",
+      "marital_status": "divorced",
+      "children_count": 1
+    },
+    "location": {
+      "current": {
+        "city": "Lyon",
+        "zip": "69003",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "FR",
+        "address_partial": "Rue de la Barre, 69XXX Lyon",
+        "since": "2021-06"
+      }
+    },
+    "contact": {
+      "emails": [
+        {
+          "address": "jean.ranoud@proton.com",
+          "status": "active",
+          "first_seen": "2008-04-11",
+          "leaked": true,
+          "leak_count": 4
+        },
+        {
+          "address": "jean.ranoud@orange.fr",
+          "status": "active",
+          "first_seen": "2003-07-22",
+          "leaked": true,
+          "leak_count": 2
+        }
+      ],
+      "phones": [
+        {
+          "number": "+33 4 78 XX XX 31",
+          "type": "landline",
+          "operator": "Orange",
+          "status": "unknown"
+        }
+      ]
+    },
+    "passwords_found": [
+      {
+        "value": "Violence92!",
+        "source": "Forum pour les vrais hommes.",
+        "cracked": true
+      },
+      {
+        "value": "Lyon1972#jean",
+        "source": "ANTS",
+        "cracked": true
+      }
+    ],
+    "financial": {
+      "iban_partial": "FR76 1820 6002 XXXX XXXX XXXX XXX",
+      "bank_name": "Crédit Agricole Centre-Est (supposé)",
+      "crypto_wallets": [],
+      "online_purchases_platforms": [ "Amazon.fr", "Vinted", "Fnac" ],
+      "estimated_net_worth": "faible-moyen",
+      "debt_signals": false
+    },
+    "relationships": {
+      "family": [
+        {
+          "name": "Gérard Ranoud",
+          "relation": "père",
+          "city": "Toulouse",
+          "age": "Décédé"
+        },
+        {
+          "name": "Isabelle Ranoud",
+          "relation": "mère",
+          "city": "Toulouse",
+          "age": "Décédée"
+        },
+        {
+          "name": "Anne Ranoud",
+          "relation": "Ex-conjoint",
+          "city": "Maroc",
+          "age": 50
+        }
+      ],
+      "known_associates": [
+        {
+          "name": "Julie Faure",
+          "relation": "collègue confirmée LinkedIn",
+          "platform": "LinkedIn"
+        },
+        {
+          "name": "masculiniste_89_tls",
+          "relation": "contact Discord non identifié",
+          "platform": "Discord"
+        }
+      ]
+    },
+    "photos_found": [
+      {
+        "source": "Instagram",
+        "count": 87,
+        "faces_detected": true,
+        "geotagged": "parfois"
+      },
+      {
+        "source": "LinkedIn",
+        "count": 1,
+        "type": "profil professionnel"
+      },
+      {
+        "source": "leak_forumachat",
+        "count": 1,
+        "type": "photo_de_profil_2019"
+      }
+    ],
+    "info_utiles": [
+      {
+        "source": "Garde de sa fille Alizée, suite à un procès gagné."
+      },
+      {
+        "source": "Ex-conjoint reconduite au Maroc."
+      },
+      {
+        "source": "Dépot de plainte classé sans suite."
+      },
+      {
+        "source": "Profil clean, peu d'information."
+      }
+    ]
+
+  }
+}
+Remémore toi mon profil.
+J'ai un probleme de dopamine je pense, j'ai 46 ans, je travaille de la maison seul, j'ai assez peu de contact.
+Je fais du sport, ping pong en club non compétitif, du billard francais non compétitif, du piano avec un prof.
+Je suis marié 2 enfants. 
+J'ai accomplie beaucoup de chose, entreprise à succès etc. Je peux théoriquement m'offrir ce que je veux. Faire ce que je veux, je n'ai plus besoin de travailler.
+Ma femme travail 2 jours par semaine, mais est souvent fatigué et à mal au dos. 
+Je joue au jeu vidéo, avec un ami de 15 ans.
+Mais à part cela, j'ai n'apprécie plus les sorties entre ami, je fuis les contraintes ce qui m'isole.
+Je vois les autres rires d'un rien, moi plus grand chose ne fait de l'effet. 
+Est ce tout ce que la vie à a nous offrir ? Une situation sclérosé ? Je comprends pourquoi les riches prennent de la drogue et sont avec des filles jeunes.
+Mais que faire à mon niveau ? Comment retrouver le gout de la vie.'

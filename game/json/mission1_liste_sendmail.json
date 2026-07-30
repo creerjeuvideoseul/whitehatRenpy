@@ -1,0 +1,43 @@
+{
+  "emails": [
+    {
+      "id": "m1_smail_001",
+      "sender_name": "Butters Stotch",
+      "sender_email": "butters.stotch@southpark.com",
+      "recipient_email": "alizee@whitehat.net",
+      "timestamp": "2022-01-15 11:28",
+      "subject": "Send Sample Mail",
+      "is_read": true,
+      "is_important": false,
+      "meta_info": "Server: US-EAST-1 | Node: 12.0.4 | Security: SSL-TLS",
+      "html_content": "Bonjour Alizée,<br><br>Ceci est un mail de test pour vérifier l'interface de la <b>Mission 1</b>. Si tu vois ce texte, le parseur HTML fonctionne !<br><br>Cordialement.",
+      "contact_image_path": "Contacts/Avatar_Butters"
+    },
+    {
+      "id": "m1_smail_002",
+      "sender_name": "Cooper Jack",
+      "sender_email": "j.cooper@interstellar.corp",
+      "recipient_email": "alizee@whitehat.net",
+      "timestamp": "2022-01-13 20:12",
+      "subject": "Send Trust me pilot",
+      "is_read": false,
+      "is_important": true,
+      "meta_info": "Server: MARS-RELAY-B | Node: 0.0.1 | Security: ENCRYPTED",
+      "html_content": "<h3>ALERTE SÉCURITÉ</h3>L'accès au serveur principal a été compromis. Vous devez vérifier les logs de la <i>White Hat</i> immédiatement.<br><br><color=red>Urgence absolue.</color>",
+      "contact_image_path": "Contacts/Avatar_Cooper"
+    },
+    {
+      "id": "m1_smail_003",
+      "sender_name": "Cooper Jack",
+      "sender_email": "j.cooper@interstellar.corp",
+      "recipient_email": "alizee@whitehat.net",
+      "timestamp": "2022-01-13 20:12",
+      "subject": "Send Trust me pilot",
+      "is_read": false,
+      "is_important": true,
+      "meta_info": "Server: MARS-RELAY-B | Node: 0.0.1 | Security: ENCRYPTED",
+      "html_content": "<h3>ALERTE SÉCURITÉ</h3>L'accès au serveur principal a été compromis. Vous devez vérifier les logs de la <i>White Hat</i> immédiatement.<br><br><color=red>Urgence absolue.</color>",
+      "contact_image_path": "Contacts/Avatar_Cooper"
+    }
+  ]
+}

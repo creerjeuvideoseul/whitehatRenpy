@@ -1,0 +1,115 @@
+{
+  "conversation_id": "sms_mission1_marc_alizee",
+  "participants": {
+    "sender": {
+      "id": "s",
+      "name": "Marc",
+      "avatar": "Avatars/marc"
+    },
+    "receiver": {
+      "id": "r",
+      "name": "Alizée",
+      "avatar": "Avatars/alizee"
+    }
+  },
+  "messages": [
+    {
+      "id": "msg_001",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2025-12-30T09:46:00",
+      "content": "C'était bien hier, merci. Ça faisait longtemps."
+    },
+    {
+      "id": "msg_002",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-01T09:46:00",
+      "content": "Tu ne devrais pas m'écrire, tu sais pourquoi."
+    },
+    {
+      "id": "msg_003",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-01T09:46:10",
+      "content": "..."
+    },
+    {
+      "id": "msg_004",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-01T09:46:20",
+      "content": "C'est que je me sens si seule..."
+    },
+    {
+      "id": "msg_005",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-01T09:46:30",
+      "content": "Ce n'est plus possible. Tu dois arrêter de le laisser décider pour toi."
+    },
+    {
+      "id": "msg_006",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-01T09:46:40",
+      "content": "C'est compliqué."
+    },
+    {
+      "id": "msg_007",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-01T09:46:50",
+      "content": "Non. Ma proposition tient toujours."
+    },
+    {
+      "id": "msg_008",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-01T09:47:00",
+      "content": "Ne t'en mêle pas, il est un peu bourru, mais il est juste."
+    },
+    {
+      "id": "msg_009",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-01T09:47:10",
+      "content": "Mouais."
+    },
+    {
+      "id": "msg_010",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-31T19:46:00",
+      "content": "On doit se voir."
+    },
+    {
+      "id": "msg_011",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-31T19:46:10",
+      "content": "T'es sûre ? Ça va te coûter cher."
+    },
+    {
+      "id": "msg_012",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-31T19:46:20",
+      "content": "Oui."
+    },
+    {
+      "id": "msg_013",
+      "type": "text",
+      "sender": "r",
+      "timestamp": "2026-01-31T19:47:00",
+      "content": "J'ai besoin de sortir."
+    },
+    {
+      "id": "msg_014",
+      "type": "text",
+      "sender": "s",
+      "timestamp": "2026-01-31T19:47:10",
+      "content": "Alors viens. Au parking du supermarché, 20h30."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "mission_id": "mission_03",
+  "title": "Le bon samaritain",
+  "participants": {
+    "player": {
+      "id": "player",
+      "name": "Vous",
+      "avatar": "player"
+    },
+    "interlocutor": {
+      "id": "jean",
+      "name": "Jean",
+      "avatar": "Jean",
+      "ip": "90.34.216.1",
+      "localisation": "Lyon",
+      "logiciel": "What's app",
+      "protocole": "Non sécurisé.",
+      "statut": "En ligne",
+      "contact": "06.25.15.24.26"
+    }
+  },
+  "conversation": [
+    {
+      "id": "msg_001",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:12:00",
+      "type": "text",
+      "content": ".k k.",
+      "attachments": [],
+      "metadata": {
+        "encrypted": true
+      },
+      "sound": "notif_01.wav",
+      "typing_delay": 1.5,
+      "auto_advance": true
+    },
+    {
+      "id": "msg_002",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:13:10",
+      "type": "text",
+      "content": "Je cherche quelqu’un qui ne pose pas de questions.",
+      "attachments": []
+    },
+
+    {
+      "id": "msg_003",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:14:02",
+      "type": "text",
+      "content": "J’utilise un wallet Bitcoin local.<br>Aucun exchange.<br>Aucune plateforme type Binance.",
+      "attachments": []
+    },
+    {
+      "id": "msg_004",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:14:45",
+      "type": "text",
+      "content": "Le 24 janvier 2026, <b>500 000$</b> ont quitté mon portefeuille.<br>Transaction : <color=#ff5555>AZZUIAZri!&é”123OI12O3I12O3I12</color>",
+      "attachments": [
+        {
+          "type": "image",
+          "path": "images/tx_screenshot.png",
+          "caption": "Capture de la transaction"
+        }
+      ]
+    },
+    {
+      "id": "msg_005",
+      "sender": "player",
+      "timestamp": "2026-01-24T09:15:10",
+      "type": "text",
+      "content": "Vous avez déjà utilisé cette seed ailleurs ?<br>Photo ? Scan ? Fichier texte ?",
+      "attachments": []
+    },
+    {
+      "id": "msg_006",
+      "sender": "jean",
+      "timestamp": "2026-01-24T09:16:02",
+      "type": "text",
+      "content": "Non... enfin… je ne crois pas.",
+      "attachments": [],
+      "metadata": {
+        "suspicious": true
+      }
+    },
+    {
+      "id": "msg_007",
+      "sender": "system",
+      "timestamp": "2026-01-24T09:16:30",
+      "type": "event",
+      "content": "Connexion à distance établie.",
+      "attachments": []
+    },
+    {
+      "id": "msg_008",
+      "sender": "system",
+      "timestamp": "2026-01-24T09:18:10",
+      "type": "clue",
+      "content": "Processus actif détecté : OneDrive",
+      "clue_id": "onedrive_detected"
+    },
+    {
+      "id": "msg_009",
+      "sender": "system",
+      "timestamp": "2026-01-24T09:19:22",
+      "type": "clue",
+      "content": "Fichier supprimé trouvé : <b>clef_wallet.docx</b>",
+      "attachments": [
+        {
+          "type": "image",
+          "path": "images/doc_preview.png"
+        }
+      ],
+      "clue_id": "wallet_file_found"
+    },
+    {
+      "id": "choice_001",
+      "type": "choice",
+      "timestamp": "2026-01-24T09:13:20",
+      "choices": [
+        {
+          "id": "c1",
+          "text": "Ça dépend des questions.",
+          "next": "msg_003"
+        },
+        {
+          "id": "c2",
+          "text": "Expliquez le problème.",
+          "next": "msg_003"
+        }
+      ]
+    },
+    {
+      "id": "msg_010",
+      "type": "choice",
+      "timestamp": "2026-01-24T09:30:00",
+      "conditions": [ "onedrive_detected", "wallet_file_found" ],
+      "choices": [
+        {
+          "id": "final_1",
+          "text": "Restituer l’argent au client",
+          "consequence": "ending_good"
+        },
+        {
+          "id": "final_2",
+          "text": "Bloquer les fonds (origine suspecte)",
+          "consequence": "ending_moral"
+        },
+        {
+          "id": "final_3",
+          "text": "Garder 99% des fonds",
+          "consequence": "ending_corrupt"
+        }
+      ]
+    }
+  ],
+  "endings": {
+    "ending_good": {
+      "title": "Le professionnel",
+      "description": "Vous avez rempli votre mission, sans poser de questions."
+    },
+    "ending_moral": {
+      "title": "Le juge",
+      "description": "Vous avez choisi de ne pas aider un système corrompu."
+    },
+    "ending_corrupt": {
+      "title": "La dérive",
+      "description": "Vous avez compris… et vous avez choisi de profiter."
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "conversation_id": "sms_mission3_alizee",
+  "participants": {
+    "sender": {
+      "id": "envoyeur",
+      "name": "Alizee",
+      "avatar": "Avatars/alizee"
+    },
+    "receiver": {
+      "id": "emetteur",
+      "name": "Jean",
+      "avatar": "Avatars/jean"
+    }
+  },
+  "messages": [
+    {
+      "id": "msg_001",
+      "type": "text",
+      "sender": "envoyeur",
+      "timestamp": "2024-10-07T18:45:00",
+      "content": "Tu es où ?"
+    },
+    {
+      "id": "msg_002",
+      "type": "text",
+      "sender": "envoyeur",
+      "timestamp": "2024-10-07T18:50:00",
+      "content": "Ne rentre pas si tard. Il est 19h. Tu as finis l'école à 18h !"
+    },
+    {
+      "id": "msg_004",
+      "type": "image",
+      "sender": "emetteur",
+      "timestamp": "2024-10-10T10:00:00",
+      "content": "Depeche toi.",
+      "attachments": [
+        {
+          "path": "Images/Sms/image"
+        }
+      ]
+    }
+  ]
+}

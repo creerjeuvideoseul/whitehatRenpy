@@ -1,0 +1,41 @@
+{
+  "emails": [
+    {
+        "id": "m1_mail_001",
+        "sender_name": "Butters Stotch",
+        "sender_email": "butters.stotch@southpark.com",
+        "recipient_email": "alizee@whitehat.net",
+        "timestamp": "2022-01-15 11:28",
+        "subject": "Sample Mail",
+        "is_read": true,
+        "is_important": false,
+        "meta_info": "Server: US-EAST-1 | Node: 12.0.4 | Security: SSL-TLS",
+        "html_content": "Bonjour Alizée,<br><br>Ceci est un mail de test pour vérifier l'interface de la <b>Mission 1</b>. Si tu vois ce texte, le parseur HTML fonctionne !<br><br>Cordialement.",
+        "contact_image_path": "Contacts/Avatar_Butters"
+    }, 
+    {
+        "id": "m1_mail_017",
+        "sender_name": "Claire Moreau",
+        "sender_email": "admissions.sante@univ-nantes.fr",
+        "recipient_email": "alizee.ranoud@mailbox.fr",
+        "timestamp": "2025-10-31 15:37",
+        "subject": "Résultat de votre candidature - Parcours Accès Santé",
+        "is_read": false,
+        "is_important": true,
+        "meta_info": "Server: FR-NANTES-EDU02 | Node: MX-44.2 | SPF: PASS | DKIM: VALID | Security: TLS 1.3 | Client: Outlook Web Access",
+        "html_content": "Bonjour Mademoiselle Ranoud,<br><br>Après étude attentive de votre dossier dans le cadre des admissions post-bac 2026 pour le <b>Parcours Accès Santé (PASS)</b> de l'Université de Nantes, nous regrettons de vous informer que votre candidature n'a pas été retenue par la commission pédagogique.<br><br>Le nombre très élevé de candidatures reçues cette année ne nous permet malheureusement pas de donner une suite favorable à tous les dossiers, malgré leurs qualités.<br><br>Nous vous invitons à consulter votre espace candidat afin de prendre connaissance des éventuelles propositions alternatives ou formations complémentaires accessibles.<br><br>Nous vous remercions pour l'intérêt porté à notre établissement et vous souhaitons pleine réussite dans la poursuite de votre parcours universitaire.<br><br>Cordialement,<br><br><b>Claire Moreau</b><br>Chargée des admissions – Pôle Santé<br>Université de Nantes",
+        "contact_image_path": "Contacts/Avatar_ClaireMoreau",
+        "attachments": [],
+        "labels": [
+            "Université",
+            "Admissions",
+            "Important"
+        ],
+        "mail_client": "OWA-Exchange",
+        "priority": "high",
+        "status": "delivered",
+        "delivery_time_ms": 842,
+        "origin_ip": "193.52.104.18"
+    }
+  ]
+}

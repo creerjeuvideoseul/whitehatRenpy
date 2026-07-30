@@ -29,7 +29,7 @@ init:
     $ trigger_key_android = ""
     $ cont_android = 0
     
-    
+    $ nomSupervisor = "AnonGhost"
     
     # define config.image_cache_size_mb = 300
     # Declare characters used by this game.
@@ -43,7 +43,10 @@ init:
     define m = Character('Marek Trodan', color="#FF0000", image="xmarek") # Petit ami
     define a = Character('Alizée Ranoud', color="#bc8f8f", image="xzoe") # Alizée
     define j = Character('Jean Ranoud', color = "#ff0000", image="xzoe") # Père
+   
+    define h = Character(nomSupervisor, color = "#ff0000", image="xzoe") # Henri
     
+        
     define dtime = 0.15 # Dissolve time
     define sentence_already_talk = _("Je lui est déjà parlé aujourd'hui, je ne vais pas insister.")
     
@@ -68,15 +71,7 @@ init:
     
     define flashbulb = Fade(0.2, 0.0, 0.8, color='#fff') 
  
-    define title2 = Text("Blooming Witches",
-                         font=gui.text_font,
-                         line_spacing=-230,
-                         color="#c90",
-                         size=240,
-                         outlines=[(5, '#c90', 0, 0),
-                                   (0, '#fb0', -5, -5), #fa0 est bien aussi
-                                   (0, '#960', 5, 5)])
-
+    define title2 = Text("Blooming Witches", font=gui.text_font, line_spacing=-230, color="#c90", size=240, outlines=[(5, '#c90', 0, 0), (0, '#fb0', -5, -5), (0, '#960', 5, 5)])
 
     transform splasher(maintime=3, xoff=0, offtime=.4, alph=0): # takes exactly maintime+offtime seconds, alph is boolean
         truecenter
@@ -244,9 +239,29 @@ init python:
             store.mem_usage = min(store.mem_usage + 1, store.mem_target)
         elif store.mem_usage > store.mem_target:
             store.mem_usage = max(store.mem_usage - 1, store.mem_target)
-        
-        
-        
+
+
+# Gestion des indices :
+default indices_debloques = set()     
+
+init python:
+    
+    def indice_hyperlink(cible):
+        """Appelé quand le joueur clique sur un lien {a=indice:xxx}...{/a}"""
+        if cible not in indices_debloques:
+            indices_debloques.add(cible)
+            renpy.notify("Nouvel indice débloqué !")
+
+    config.hyperlink_handlers["indice"] = indice_hyperlink
+    
+style hyperlink_text:
+    color "#ff9900"
+    hover_color "#ffcc66"
+    underline True
+    
+    
+    
+    
 # Le jeu commence ici
 label start:
     

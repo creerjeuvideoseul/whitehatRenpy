@@ -53,46 +53,86 @@ label introduction:
 
 label load_desk_linux:
     
-    # ecran de bureau, fond 
+    # ecran de bureau, fond
     show screen desk_linux
     ""
-    
-    show screen telephone_sms
-    
+
     scene node_155
-    f "<player_pseudo>, je n'ai plus de doute sur tes capacités d'analyse."
 
-    scene node_156
-    f "Mais il reste une variable que je n'ai jamais pu mesurer."
+    ## Migration vers chat_window : tant que ce screen est affiché, tous les
+    ## "say"/"menu:" ci-dessous s'affichent dans la fenêtre de discussion
+    ## plutôt qu'en plein écran, sans changer une ligne de logique en dessous.
+    show screen chat_window({
+        "name": nomSupervisor,
+        "statut": "En ligne",
+    })
 
-    scene node_158
-    f "Dans cette affaire, j'observerai tes décisions afin d'établir ton indice d'éthique."
+    h "[player_name], initialisation de la phase opérationnelle."
+    h "On y est. "
+    h "Aujourd'hui, je vais te confier ta première affaire."
+    h "Nous avons suffisamment travaillé ensemble pour que je connaisse ta valeur."
+    h "Tu fais partie des {a=indice:intro_anon_perseverant}rares{/a} profils qui ont tenu jusqu'au bout."
+    menu:
+        "Je suis génial !":
+            t "C'est parce que je suis surpuissant !"
+            h "Une conclusion audacieuse."
+            h "Continue d'exploiter cette intelligence émotionnelle, elle sera précieuse."
 
-    scene node_160
-    f "Ce n'est ni un jugement ni une note."
+        "J'ai eut un bon mentor":
+            t "Probablement parce que j'ai eu un excellent mentor !"
+            t "Flatteur, mais stratégique. Une hypothèse flatteuse."
+            t "Veille simplement à ne pas surestimer tes résultats."
 
-    scene node_161
-    f "Ton premier client s'appelle Jean Ranoud, sa fille a disparu."
+    "[player_name], je n'ai plus de doute sur tes capacités d'analyse. "
+    h "Mais il reste une variable que je n'ai jamais pu mesurer. "
+    h "Elle ne demande aucune compétence technique... et pourtant, elle fera toute la différence. "
+    h "As-tu deviné de quoi je parle ?"
 
-    scene node_162
-    f "Retrouve la, <player_pseudo>, je te mets en contact."
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    menu:
+        "Le charisme ?":
+            t "Le charisme !"
+            h "Une réponse inattendue. Intéressante, mais inexacte. "
+        "L'éthique ?":
+            t "L'éthique !"
+            h "Exact. Tu as identifié la bonne variable. "
+        "Je ne sais pas.":
+            t "Je ne sais pas."
+            h "Admettre une absence de données est le premier pas vers une analyse rigoureuse. C'est le début de la sagesse."
+
+    h "Je parle de l'éthique, <player_pseudo>."
+    h "Dans cette affaire, j'observerai tes décisions afin d'établir ton indice d'éthique. "
+    h "Ce n'est ni un jugement ni une note. "
+    h "Je cherche simplement à comprendre qui tu es lorsque personne ne te dit quoi faire. "
+    h "Ton premier client s'appelle Jean Ranoud, sa fille a disparu."
+
+
+    h "Retrouve la, [player_name], je te mets en contact."
+    h "N'obéis pas. Comprends. Juge. Agis."
+
+    hide screen chat_window
+
+    jump mission1_sms_conversation
+
+
+label mission1_sms_conversation:
+
+    ## Conversation SMS de la mission 1. L'écran est modal : le récit
+    ## principal reste en pause tant que le joueur n'a pas fermé le
+    ## téléphone (bouton "Fermer" -> Hide("mission_sms")).
+
+    window hide
+
+    show screen mission_sms("json/mission1_dialogue_1 1.json")
+    pause
+
+    hide screen mission_sms
+
     scene node_1
-    f "Allo ?"
+    k "Allo ?"
 
     # --- Noeud 6 ---
     scene node_6
-    f "C'est White Hat."
+    k "C'est White Hat."
     menu:
         "Et vous, vous êtes le boomer en détresse ?":
             jump node_6_choice_0
@@ -102,7 +142,7 @@ label load_desk_linux:
 
     # --- Noeud 17 ---
     scene node_17
-    f "C'est une honte."
+    k "C'est une honte."
     menu:
         "Rassurez-vous monsieur, nous allons la retrouver.":
             jump node_17_choice_0
@@ -112,31 +152,31 @@ label load_desk_linux:
 
     # --- Noeud 19 ---
     scene node_19
-    f "Rassurez vous monsieur, nous allons la retrouver."
+    k "Rassurez vous monsieur, nous allons la retrouver."
 
     # --- Noeud 20 ---
     scene node_20
-    f "C'est terrible. Avez-vous reçu une demande de rançon ?"
+    k "C'est terrible. Avez-vous reçu une demande de rançon ?"
 
     # --- Noeud 22 ---
     scene node_22
-    f "Une rançon ? Non, rien, quelle idée."
+    k "Une rançon ? Non, rien, quelle idée."
 
     # --- Noeud 27 ---
     scene node_27
-    f "Vous avez une idée de l'endroit où elle pourrait être ?"
+    k "Vous avez une idée de l'endroit où elle pourrait être ?"
 
     # --- Noeud 28 ---
     scene node_28
-    f "Si je le savais, je ne paierais pas un hacker."
+    k "Si je le savais, je ne paierais pas un hacker."
 
     # --- Noeud 29 ---
     scene node_29
-    f "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr."
+    k "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr."
 
     # --- Noeud 30 ---
     scene node_30
-    f "Vous vous y connaissez..."
+    k "Vous vous y connaissez..."
     menu:
         "Vous êtes hacker ?":
             jump node_30_choice_0
@@ -146,43 +186,43 @@ label load_desk_linux:
 
     # --- Noeud 33 ---
     scene node_33
-    f "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique."
+    k "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique."
 
     # --- Noeud 34 ---
     scene node_34
-    f "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée !"
+    k "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée !"
 
     # --- Noeud 35 ---
     scene node_35
-    f "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?"
+    k "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?"
 
     # --- Noeud 36 ---
     scene node_36
-    f "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes."
+    k "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes."
 
     # --- Noeud 37 ---
     scene node_37
-    f "Par contre, le {color=#ffa500}téléphone est étonnamment vide{/color}, peu de sms, mail, ou images."
+    k "Par contre, le {color=#ffa500}téléphone est étonnamment vide{/color}, peu de sms, mail, ou images."
 
     # --- Noeud 38 ---
     scene node_38
-    f "Et y'a un truc {color=#ffa500}crypté{/color} que j'ai pas réussi à lire."
+    # k "Et y'a un truc {color=#ffa500}crypté{/color} que j'ai pas réussi à lire."
 
     # --- Noeud 40 ---
     scene node_40
-    f "Bref, à vous de jouer."
+    k "Bref, à vous de jouer."
 
     # --- Noeud 41 ---
     scene node_41
-    f "Envoyez-moi les données."
+    k "Envoyez-moi les données."
 
     # --- Noeud 44 ---
     scene node_44
-    f "L'argent n'est pas un problème."
+    k "L'argent n'est pas un problème."
 
     # --- Noeud 46 ---
     scene node_46
-    f "J'ai une bonne retraite. J'ai travaillé pour ça !"
+    k "J'ai une bonne retraite. J'ai travaillé pour ça !"
 
     # --- Noeud 47 ---
     scene node_47
@@ -196,15 +236,15 @@ label load_desk_linux:
 
     # --- Noeud 49 ---
     scene node_49
-    f "Ça me va, mais dépêchez-vous."
+    k "Ça me va, mais dépêchez-vous."
 
     # --- Noeud 50 ---
     scene node_50
-    f "Voilà l'archive."
+    k "Voilà l'archive."
 
     # --- Noeud 51 ---
     scene node_51
-    f "Merci, je vous ferais un rapport complet dès que possible."
+    k "Merci, je vous ferais un rapport complet dès que possible."
 
     # --- Noeud 90 ---
     scene node_90
@@ -220,18 +260,101 @@ label load_desk_linux:
 
     # --- Noeud 98 ---
     scene node_98
-    f "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie."
+    k "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie."
 
     # --- Noeud 109 ---
     scene node_109
-    f "J'ai désormais accès aux archives du téléphone d'Alyzée."
+    k "J'ai désormais accès aux archives du téléphone d'Alyzée."
 
     # --- Noeud 110 ---
     scene node_110
-    f "Je dois trouver pourquoi elle a disparu, si elle va bien, qui est au courant.. et à quel endroit elle se trouve."
+    k "Je dois trouver pourquoi elle a disparu, si elle va bien, qui est au courant.. et à quel endroit elle se trouve."
 
     e "Vous venez de créer un nouveau jeu Ren'Py."
 
     e "Après avoir ajouté une histoire, des images et de la musique, vous pourrez le présenter au monde entier !"
 
     return
+    
+    
+    j "Allo ?"
+    j "C'est vous le Taïe What ?"
+    t "C'est White Hat."
+    menu:    
+        "Et vous, vous êtes le boomer en détresse ?":
+            t "Et vous, vous êtes le boomer en détresse ?"
+            j "Oh, un peu de respect. Je paye, j'ai le droit de me tromper de nom ! "
+        "Que puis-je pour vous?":
+            t "Que puis-je pour vous?"
+            j "Bon... enfin quelqu'un qui va servir à quelque chose."
+    
+    j "Ma fille Alizée a disparu {a indice:alyzee_disparu_18}le jour de ses dix-huit ans.{/a}"
+    j " Je lui avais préparé un gâteau."
+    j "Deux jours plus tard, toujours rien ! Et la police refuse de bouger sous prétexte qu'elle est majeure."
+    
+    j "C'est une honte."
+    
+    menu:
+        "Rassurez-vous monsieur, nous allons la retrouver.":
+            t "Rassurez vous monsieur, nous allons la retrouver."
+            j "J'espère bien."
+        "C'est terrible. Avez-vous reçu une demande de rançon ?":
+            t "C'est terrible. Avez-vous reçu une demande de rançon ?"
+            j "Une rançon ? Non, rien, quelle idée."
+            
+    t "Vous avez une idée de l'endroit où elle pourrait être ?"
+    j "Si je le savais, je ne paierais pas un hacker."
+    j "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr. "
+    j "Elle contestait tout : les règles, les horaires, mes décisions... Je l'élève seul depuis 10 ans ! Je fais tout pour son bien. "
+    j "Je sais que je ne suis pas parfait, mais qui l'est ? Enfin bref."
+    j "J'ai déjà avancé sur l'enquête. Je suis un peu hacker moi-même. "
+    
+    j "Vous vous y connaissez..."
+    menu: 
+        "Vous êtes hacker ?":
+            t "Vous êtes hacker ?"
+        "Un débutant ?":
+            t "Un débutant ?"
+    
+    j "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique."
+    j "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée ! "
+    t "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?"
+    j "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes."
+    
+    menu:
+        "C'est d'une imprudence totale.":
+            "Ben quoi ? Ça a marché."
+        "Il s'est passé quoi ensuite ?":
+            "Merci. Mais j'attends une ristourne, vu que j'ai fait le plus gros. "
+        "Impressionnant, vous êtes un vrai hacker !":
+            ""
+    
+    j "Par contre, le {a indice:M1_phone_empty}téléphone est étonnamment vide{/a}, peu de sms, mail, ou images. "
+    j "Et y'a un truc {a indice:M1_crypted}crypté{/a} que j'ai pas réussi à lire."
+    j "Bref, à vous de jouer."
+    
+    
+    t "Envoyez-moi les données. "
+    
+    t "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie."
+        
+    j "L'argent n'est pas un problème."
+    j " J'ai une bonne retraite. J'ai travaillé pour ça !"
+    
+    menu:
+        "Ce sera 2 000 € en cas de succès uniquement.":
+            j "Ça me va, mais dépêchez-vous."
+        "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement.":
+            j "C'est cher payé pour ouvrir un fichier, mais j'ai pas le choix. Dépêchez-vous. "
+            
+    j "Voilà l'archive."
+    t "Merci, je vous ferais un rapport complet dès que possible."
+    j "J'attend votre rapport !"
+    
+    # deconnnexion
+    
+    n "J'ai désormais accès aux archives du téléphone d'Alyzée."
+    n "Je dois trouver pourquoi elle a disparu, si elle va bien, qui est au courant.. et à quel endroit elle se trouve."
+    
+
+    

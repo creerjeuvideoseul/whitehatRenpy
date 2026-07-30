@@ -97,23 +97,44 @@ style frame:
 
 screen say(who, what):
 
-    window:
-        id "window"
+    ## Si une fenêtre chat_window est ouverte (module chat_window.rpy), le
+    ## dialogue est redirigé vers son fil de discussion au lieu du textbox
+    ## plein écran classique ci-dessous.
+    if chat_is_open():
 
-        if who is not None:
+        modal (not chat_say_revealed())
 
-            window:
-                id "namebox"
-                style "namebox"
-                text who id "who"
+        on "show" action Function(chat_append_message, who, what)
 
-        text what id "what"
+        ## Ren'Py exige que le screen "say" fournisse un displayable Text
+        ## avec l'id "what" (utilisé en interne pour la vitesse de frappe,
+        ## le doublage, le clic pour tout révéler, etc.), sinon il lève une
+        ## exception. Le texte réel est affiché par chat_window ; celui-ci
+        ## est donc invisible.
+        text what:
+            id "what"
+            at transform:
+                alpha 0.0
+
+    else:
+
+        window:
+            id "window"
+
+            if who is not None:
+
+                window:
+                    id "namebox"
+                    style "namebox"
+                    text who id "who"
+
+            text what id "what"
 
 
-    ## Si il y a une side image, l'afficher au-dessus du texte. Ne pas
-    ## l'afficher sur la version téléphone - pas assez de place.
-    if not renpy.variant("small"):
-        add SideImage() xalign 0.0 yalign 1.0
+        ## Si il y a une side image, l'afficher au-dessus du texte. Ne pas
+        ## l'afficher sur la version téléphone - pas assez de place.
+        if not renpy.variant("small"):
+            add SideImage() xalign 0.0 yalign 1.0
 
 
 ## Rendre la boîte du nom personnalisable à travers l'objet Character.
@@ -205,11 +226,20 @@ style input:
 ## https://www.renpy.org/doc/html/screen_special.html#choice
 
 screen choice(items):
-    style_prefix "choice"
 
-    vbox:
-        for i in items:
-            textbutton i.caption action i.action
+    ## Si une fenêtre chat_window est ouverte, les choix sont affichés dans
+    ## son pied de page au lieu du menu plein écran classique ci-dessous.
+    if chat_is_open():
+
+        on "show" action Function(chat_set_pending_choice, items)
+
+    else:
+
+        style_prefix "choice"
+
+        vbox:
+            for i in items:
+                textbutton i.caption action i.action
 
 
 style choice_vbox is vbox
@@ -1724,20 +1754,4 @@ screen desk_linux():
     timer 0.1 action Function(update_mem_usage) repeat True
     timer 10.0 action Function(update_heure_system) repeat True
     
-screen telephone_sms():
-    
-    zorder 10  # s'assure qu'il passe au-dessus du bureau
-    modal True  # bloque les clics sur le bureau tant que le tel est ouvert (optionnel, à toi de voir)
-
-    frame:
-        xalign 0.5
-        yalign 0.5
-        xsize 400
-        ysize 700
-        background Solid("#111111")
-
-        vbox:
-            # header du téléphone, contact, historique messages...
-            imagebutton:
-                idle "gui/close.png"
-                action Hide("telephone_sms")    
+## L'écran "téléphone SMS" (mission_sms) est défini dans mission_sms.rpy.
