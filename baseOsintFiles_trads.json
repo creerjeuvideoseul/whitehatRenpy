@@ -1,0 +1,204 @@
+{
+  "translations": [
+    {
+      "languageCode": "fr",
+      "characters": [
+        {
+          "characterId": 0,
+          "nom": "Jean",
+          "prenom": "Ranoud",
+          "alias": "",
+          "description": "Age: 47 years old, born in 1983, in Caen.\r\nStatus: Divorced from Christine Ranoud\r\n\r\nKnown child: Alizée Ranoud\r\n\r\nProfession: Security guard.\r\nKnown address: 37 Rue de la Barre, Rennes, since 2015\r\nHobby: Club shooting. <color id=\"M1_jean_arme_feu\" value=\"orange\">Owns a category 1 B4 firearm.</color>\r\n\r\nIP: French.\r\nEmail: jean.ranoud@protonmail.com\r\nPhone: +33 6 15 45 xx xx\r\nKnown leaks: Social security, yellow SAS, KFC, Sports club, Airsoft.\r\nPasswords: <color id=\"osint_jean_pw\" value=\"red\">EliteShot$83$</color>"
+        },
+        {
+          "characterId": 1,
+          "nom": "Trodan",
+          "prenom": "Marek ",
+          "alias": "",
+          "description": "Age: 19 years old, born in 2011, in 44000 Nantes.\r\nStudies: Art school. \r\nStatus: Son of Benjamin Trodan.\r\n\r\nKnown child: None\r\nProfession: Art school student. Guitarist in a small independent rock band. \r\nKnown address: 15 avenue Carnut, 35288 Saint-Malo, since 2020\r\nHobby: Guitar, darts.\r\nIP: French\r\n\r\nEmail: benoit.trodan@gomail.com\r\nPhone: +33 5 12 01 xx xx\r\nKnown leaks: Crous.\r\n\r\nKnown alias: BlueFret44\r\nPasswords: PeaceAndLove, Alizee&Marek"
+        },
+        {
+          "characterId": 2,
+          "nom": "Ranoud",
+          "prenom": "Alizée",
+          "alias": "",
+          "description": "Age: 18 years old, born January 31, 2012, in Rennes.\r\nStatus: Daughter of Christine Ranoud and Jean Ranoud\r\n\r\nKnown address: 37 Rue de la Barre, Rennes, since 2015\r\nHobby: Singing, dance.\r\nIP: French.\r\nEmail: alizee.ranoud@gomail.com\r\nPhone: +33 7 33 01 xx xx\r\nKnown leaks: Crous, National education, Crunchyroll.\n\r\nKnown alias: Lily11 \r\nPasswords: ILoveDance<color id=\"osint_alizee_pwa\" value=\"orange\">11</color>, ILoveSing11, <color id=\"osint_alizee_pwpere\" value=\"orange\">EliteShot$83$\n</color>"
+        },
+        {
+          "characterId": 3,
+          "nom": "RANOUD ",
+          "prenom": "Christine ",
+          "alias": "",
+          "description": "Age: 42 years old, born in 1988, in Bretz.\r\nStatus: Divorced from Jean Ranoud\r\nNationality: French (permanent resident in Indonesia) \r\nKnown child: Alizée Ranoud\r\nProfession: Manager of a small guesthouse for expatriates.\r\nKnown address: Ubud, Bali, Indonesia \r\nHobby: Yoga and meditation \r\n\r\nIP: Indonesian.\r\n\r\nEmail: c.ranoud@gomail.co.id\r\nPhone: NC\r\nKnown leaks: Tokopedia, AirBnb\r\nPasswords: Putriku_tersayang (my daughter's love in Indonesian)"
+        },
+        {
+          "characterId": 4,
+          "nom": "Dumont",
+          "prenom": "Océane",
+          "alias": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "languageCode": "en",
+      "characters": [
+        {
+          "characterId": 0,
+          "nom": "Jean",
+          "prenom": "Ranoud",
+          "alias": "",
+          "description": "Age: 47 years old, born in 1983, in Caen.\r\nStatus: Divorced from Christine Ranoud\r\n\r\nKnown child: Alizée Ranoud\r\n\r\nProfession: Security guard.\r\nKnown address: 37 Rue de la Barre, Rennes, since 2015\r\nHobby: Club shooting. <color id=\"M1_jean_arme_feu\" value=\"orange\">Owns a category 1 B4 firearm.</color>\r\n\r\nIP: French.\r\nEmail: jean.ranoud@protonmail.com\r\nPhone: +33 6 15 45 xx xx\r\nKnown leaks: Social security, yellow SAS, KFC, Sports club, Airsoft.\r\nPasswords: <color id=\"osint_jean_pw\" value=\"red\">EliteShot$83$</color>"
+        },
+        {
+          "characterId": 1,
+          "nom": "Trodan",
+          "prenom": "Marek ",
+          "alias": "",
+          "description": "Age: 19 years old, born in 2011, in 44000 Nantes.\r\nStudies: Art school. \r\nStatus: Son of Benjamin Trodan.\r\n\r\nKnown child: None\r\nProfession: Art school student. Guitarist in a small independent rock band. \r\nKnown address: 15 avenue Carnut, 35288 Saint-Malo, since 2020\r\nHobby: Guitar, darts.\r\nIP: French\r\n\r\nEmail: benoit.trodan@gomail.com\r\nPhone: +33 5 12 01 xx xx\r\nKnown leaks: Crous.\r\n\r\nKnown alias: BlueFret44\r\nPasswords: PeaceAndLove, Alizee&Marek"
+        },
+        {
+          "characterId": 2,
+          "nom": "Ranoud",
+          "prenom": "Alizée",
+          "alias": "",
+          "description": "Age: 18 years old, born January 31, 2012, in Rennes.\r\nStatus: Daughter of Christine Ranoud and Jean Ranoud\r\n\r\nKnown address: 37 Rue de la Barre, Rennes, since 2015\r\nHobby: Singing, dance.\r\nIP: French.\r\nEmail: alizee.ranoud@gomail.com\r\nPhone: +33 7 33 01 xx xx\r\nKnown leaks: Crous, National education, Crunchyroll.\n\r\nKnown alias: Lily11 \r\nPasswords: ILoveDance<color id=\"osint_alizee_pwa\" value=\"orange\">11</color>, ILoveSing11, <color id=\"osint_alizee_pwpere\" value=\"orange\">EliteShot$83$\n</color>"
+        },
+        {
+          "characterId": 3,
+          "nom": "RANOUD ",
+          "prenom": "Christine ",
+          "alias": "",
+          "description": "Age: 42 years old, born in 1988, in Bretz.\r\nStatus: Divorced from Jean Ranoud\r\nNationality: French (permanent resident in Indonesia) \r\nKnown child: Alizée Ranoud\r\nProfession: Manager of a small guesthouse for expatriates.\r\nKnown address: Ubud, Bali, Indonesia \r\nHobby: Yoga and meditation \r\n\r\nIP: Indonesian.\r\n\r\nEmail: c.ranoud@gomail.co.id\r\nPhone: NC\r\nKnown leaks: Tokopedia, AirBnb\r\nPasswords: Putriku_tersayang (my daughter's love in Indonesian)"
+        },
+        {
+          "characterId": 4,
+          "nom": "Dumont",
+          "prenom": "Océane",
+          "alias": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "languageCode": "es",
+      "characters": [
+        {
+          "characterId": 0,
+          "nom": "Jean",
+          "prenom": "Ranoud",
+          "alias": "",
+          "description": "Age : 47 ans, né le 1983, à Caen.\r\nStatut : Divorcé de Christine Ranoud\r\n\r\nEnfant connu : Alizée Ranoud\r\n\r\nProfession : Agent de sécurité.\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Tir en club. <color id=\"M1_jean_arme_feu\" value=\"orange\">Possède une arme catégorie 1 B4.</color>\r\n\r\nIP : Française.\r\nMail : jean.ranoud@protonmail.com\r\nTéléphone : +33 6 15 45 xx xx\r\nFuites connues : Sécurité social, jaune SAS, KFC, Club sportif, Airsoft.\r\nMots de passe : <color id=\"osint_jean_pw\" value=\"red\">EliteShot$83$</color>"
+        },
+        {
+          "characterId": 1,
+          "nom": "Trodan",
+          "prenom": "Marek ",
+          "alias": "",
+          "description": "Age : 19 ans, né le 2011, à 44000 Nantes.\r\nÉtudes : École des arts. \r\nStatut : Fils de Benjamin Trodan.\r\n\r\nEnfant connu : Aucun\r\nProfession : Etudiant en école des arts. Guitariste dans un petit groupe de rock indépendant. \r\nAdresse connue : 15 avenue Carnut, 35288 Saint-Malo, depuis 2020\r\nLoisir : Guitare, flechette.\r\nIP : Française\r\n\r\nMail : benoit.trodan@gomail.com\r\nTéléphone : +33 5 12 01 xx xx\r\nFuites connues : Crous.\r\n\r\nPseudo connu : BlueFret44\r\nMots de passe : PeaceAndLove, Alizee&Marek\r\n"
+        },
+        {
+          "characterId": 2,
+          "nom": "Ranoud",
+          "prenom": "Alizée",
+          "alias": "",
+          "description": "Age : 18 ans, né le 31 janvier 2012, à Rennes.\r\nStatut : Fille de Christine Ranoud et Jean Ranoud\r\n\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Chant, la danse.\r\nIP : Française.\r\nMail : alizee.ranoud@gomail.com\r\nTéléphone : +33 7 33 01 xx xx\r\nFuites connues : Crous, Education nationale, Crunchyroll.\n\r\nPseudo connu : Lily11 \r\nMots de passe : ILoveDance<color id=\"osint_alizee_pwa\" value=\"orange\">11</color>, ILoveSing11, <color id=\"osint_alizee_pwpere\" value=\"orange\">EliteShot$83$\n</color>\r\n"
+        },
+        {
+          "characterId": 3,
+          "nom": "RANOUD ",
+          "prenom": "Christine ",
+          "alias": "",
+          "description": "Age : 42 ans, né le 1988, à Bretz.\r\nStatut : Divorcée de Jean Ranoud\r\nNationalité : Française (résidente permanente en Indonésie) \r\nEnfant connu : Alizée Ranoud\r\nProfession : Gérante d'une petite maison d'hôtes pour expatriés.\r\nAdresse connue : Ubud, Bali, Indonésie \r\nLoisir : Yoga et méditation \r\n\r\nIP : Indonésienne.\r\n\r\nMail : c.ranoud@gomail.co.id\r\nTéléphone : NC\r\nFuites connues : Tokopedia, AirBnb\r\nMots de passe : Putriku_tersayang (mon amour de fille en indonésien)\r\n"
+        },
+        {
+          "characterId": 4,
+          "nom": "Dumont",
+          "prenom": "Océane",
+          "alias": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "languageCode": "zh",
+      "characters": [
+        {
+          "characterId": 0,
+          "nom": "Jean",
+          "prenom": "Ranoud",
+          "alias": "",
+          "description": "Age : 47 ans, né le 1983, à Caen.\r\nStatut : Divorcé de Christine Ranoud\r\n\r\nEnfant connu : Alizée Ranoud\r\n\r\nProfession : Agent de sécurité.\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Tir en club. <color id=\"M1_jean_arme_feu\" value=\"orange\">Possède une arme catégorie 1 B4.</color>\r\n\r\nIP : Française.\r\nMail : jean.ranoud@protonmail.com\r\nTéléphone : +33 6 15 45 xx xx\r\nFuites connues : Sécurité social, jaune SAS, KFC, Club sportif, Airsoft.\r\nMots de passe : <color id=\"osint_jean_pw\" value=\"red\">EliteShot$83$</color>"
+        },
+        {
+          "characterId": 1,
+          "nom": "Trodan",
+          "prenom": "Marek ",
+          "alias": "",
+          "description": "Age : 19 ans, né le 2011, à 44000 Nantes.\r\nÉtudes : École des arts. \r\nStatut : Fils de Benjamin Trodan.\r\n\r\nEnfant connu : Aucun\r\nProfession : Etudiant en école des arts. Guitariste dans un petit groupe de rock indépendant. \r\nAdresse connue : 15 avenue Carnut, 35288 Saint-Malo, depuis 2020\r\nLoisir : Guitare, flechette.\r\nIP : Française\r\n\r\nMail : benoit.trodan@gomail.com\r\nTéléphone : +33 5 12 01 xx xx\r\nFuites connues : Crous.\r\n\r\nPseudo connu : BlueFret44\r\nMots de passe : PeaceAndLove, Alizee&Marek\r\n"
+        },
+        {
+          "characterId": 2,
+          "nom": "Ranoud",
+          "prenom": "Alizée",
+          "alias": "",
+          "description": "Age : 18 ans, né le 31 janvier 2012, à Rennes.\r\nStatut : Fille de Christine Ranoud et Jean Ranoud\r\n\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Chant, la danse.\r\nIP : Française.\r\nMail : alizee.ranoud@gomail.com\r\nTéléphone : +33 7 33 01 xx xx\r\nFuites connues : Crous, Education nationale, Crunchyroll.\n\r\nPseudo connu : Lily11 \r\nMots de passe : ILoveDance<color id=\"osint_alizee_pwa\" value=\"orange\">11</color>, ILoveSing11, <color id=\"osint_alizee_pwpere\" value=\"orange\">EliteShot$83$\n</color>\r\n"
+        },
+        {
+          "characterId": 3,
+          "nom": "RANOUD ",
+          "prenom": "Christine ",
+          "alias": "",
+          "description": "Age : 42 ans, né le 1988, à Bretz.\r\nStatut : Divorcée de Jean Ranoud\r\nNationalité : Française (résidente permanente en Indonésie) \r\nEnfant connu : Alizée Ranoud\r\nProfession : Gérante d'une petite maison d'hôtes pour expatriés.\r\nAdresse connue : Ubud, Bali, Indonésie \r\nLoisir : Yoga et méditation \r\n\r\nIP : Indonésienne.\r\n\r\nMail : c.ranoud@gomail.co.id\r\nTéléphone : NC\r\nFuites connues : Tokopedia, AirBnb\r\nMots de passe : Putriku_tersayang (mon amour de fille en indonésien)\r\n"
+        },
+        {
+          "characterId": 4,
+          "nom": "Dumont",
+          "prenom": "Océane",
+          "alias": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "languageCode": "ja",
+      "characters": [
+        {
+          "characterId": 0,
+          "nom": "Jean",
+          "prenom": "Ranoud",
+          "alias": "",
+          "description": "Age : 47 ans, né le 1983, à Caen.\r\nStatut : Divorcé de Christine Ranoud\r\n\r\nEnfant connu : Alizée Ranoud\r\n\r\nProfession : Agent de sécurité.\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Tir en club. <color id=\"M1_jean_arme_feu\" value=\"orange\">Possède une arme catégorie 1 B4.</color>\r\n\r\nIP : Française.\r\nMail : jean.ranoud@protonmail.com\r\nTéléphone : +33 6 15 45 xx xx\r\nFuites connues : Sécurité social, jaune SAS, KFC, Club sportif, Airsoft.\r\nMots de passe : <color id=\"osint_jean_pw\" value=\"red\">EliteShot$83$</color>"
+        },
+        {
+          "characterId": 1,
+          "nom": "Trodan",
+          "prenom": "Marek ",
+          "alias": "",
+          "description": "Age : 19 ans, né le 2011, à 44000 Nantes.\r\nÉtudes : École des arts. \r\nStatut : Fils de Benjamin Trodan.\r\n\r\nEnfant connu : Aucun\r\nProfession : Etudiant en école des arts. Guitariste dans un petit groupe de rock indépendant. \r\nAdresse connue : 15 avenue Carnut, 35288 Saint-Malo, depuis 2020\r\nLoisir : Guitare, flechette.\r\nIP : Française\r\n\r\nMail : benoit.trodan@gomail.com\r\nTéléphone : +33 5 12 01 xx xx\r\nFuites connues : Crous.\r\n\r\nPseudo connu : BlueFret44\r\nMots de passe : PeaceAndLove, Alizee&Marek\r\n"
+        },
+        {
+          "characterId": 2,
+          "nom": "Ranoud",
+          "prenom": "Alizée",
+          "alias": "",
+          "description": "Age : 18 ans, né le 31 janvier 2012, à Rennes.\r\nStatut : Fille de Christine Ranoud et Jean Ranoud\r\n\r\nAdresse connue : 37 Rue de la Barre, Rennes, depuis 2015\r\nLoisir : Chant, la danse.\r\nIP : Française.\r\nMail : alizee.ranoud@gomail.com\r\nTéléphone : +33 7 33 01 xx xx\r\nFuites connues : Crous, Education nationale, Crunchyroll.\n\r\nPseudo connu : Lily11 \r\nMots de passe : ILoveDance<color id=\"osint_alizee_pwa\" value=\"orange\">11</color>, ILoveSing11, <color id=\"osint_alizee_pwpere\" value=\"orange\">EliteShot$83$\n</color>\r\n"
+        },
+        {
+          "characterId": 3,
+          "nom": "RANOUD ",
+          "prenom": "Christine ",
+          "alias": "",
+          "description": "Age : 42 ans, né le 1988, à Bretz.\r\nStatut : Divorcée de Jean Ranoud\r\nNationalité : Française (résidente permanente en Indonésie) \r\nEnfant connu : Alizée Ranoud\r\nProfession : Gérante d'une petite maison d'hôtes pour expatriés.\r\nAdresse connue : Ubud, Bali, Indonésie \r\nLoisir : Yoga et méditation \r\n\r\nIP : Indonésienne.\r\n\r\nMail : c.ranoud@gomail.co.id\r\nTéléphone : NC\r\nFuites connues : Tokopedia, AirBnb\r\nMots de passe : Putriku_tersayang (mon amour de fille en indonésien)\r\n"
+        },
+        {
+          "characterId": 4,
+          "nom": "Dumont",
+          "prenom": "Océane",
+          "alias": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

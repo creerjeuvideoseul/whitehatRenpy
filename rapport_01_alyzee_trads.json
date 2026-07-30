@@ -1,0 +1,2484 @@
+{
+  "translations": [
+    {
+      "languageCode": "fr",
+      "nodes": [
+        {
+          "nodeId": 3,
+          "text": "C'est un moment crucial, je dois faire attention à ce que je révèle à mon client.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 4,
+          "text": "Alyzée a disparue, je vais dire à Jean que je l'ai retrouvé.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Mais est-ce que Jean a besoin de tout savoir?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Je vais devoir faire un choix...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "Mr Ranoud?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 21,
+          "text": "C'est moi, vous avez du nouveau?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "J'ai retrouvé votre fille, elle va bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 23,
+          "text": "Elle est ou???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "(Alyzée n'a peut-être pas envie que son père sache ou elle est.)",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Dire la vérité à Jean Ranoud"},
+            {"choiceIndex": 1, "choiceText": "Ne pas donner l'info"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 8,
+          "text": "Malheureusement la loi m'interdit de vous donner cette information.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 24,
+          "text": "Dis pas n'importe quoi",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 26,
+          "text": "C'est ma fille, balance!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 25,
+          "text": "Alyzée est majeure monsieur, vous n'avez plus tous les droits sur elle.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Enfoiré!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Vous n'êtes pas heureux que votre fille soit enfin devenue une adulte capable de faire ses propres choix?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Pourquoi elle me fait ça? C'est une trahison?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Mr Ranoud, la plupart des fugues n'attendent pas la majorité.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 31,
+          "text": "Elle m'en veut?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 32,
+          "text": "Si votre fille a attendu ses 18 ans avant de partir, c'est pour vous respecter un maximum.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "Je vois...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "C'est une femme maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Elle est avec son petit ami, un certain Marek.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Je vais chercher le fusil",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Allons monsieur c'est normal à son âge!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 39,
+          "text": "Je plaisante White Hat!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Je sais bien, elle est majeure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Elle aurait pu m'en parler...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 42,
+          "text": "C'est quoi comme origine ce prénom, Marek?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "J'espère que c'est pas un branleur!",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est un musicien de talent"},
+            {"choiceIndex": 1, "choiceText": "C'est un branleur"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "Oh non, un vrai branleur!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 48,
+          "text": "C'est un branleur.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "C'est un musicien de talent.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "J'en étais sûr ha ha",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Bon et pourquoi elle est partie sans rien me dire?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Ah ça...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Phobie armes à feu"},
+            {"choiceIndex": 1, "choiceText": "Enceinte"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "J'ai toutes les infos sur Alyzée, je peux contacter Jean Ranoud pour terminer la mission.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 7,
+          "text": "(Je vais dire la vérité à Jean Ranoud.)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 53,
+          "text": "(J'espère qu'il va bien réagir...)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 54,
+          "text": "Elle est enceinte",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 56,
+          "text": "Et Alyzée n'aime pas les armes...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 55,
+          "text": "Elle est tombée sur votre arme à feu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 57,
+          "text": "Mais c'est pour la protéger!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 58,
+          "text": "Quoi???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 59,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 60,
+          "text": "White Hat, ça fait beaucoup là",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Félicitation, papy"},
+            {"choiceIndex": 1, "choiceText": "Vous me payez pour ça"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 61,
+          "text": "Félicitation, papy Ranoud!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 62,
+          "text": "Vous me payez pour ça",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 65,
+          "text": "Vous savez tout maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 67,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 68,
+          "text": "100k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 66,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 69,
+          "text": "C'est pas un souci, j'ai une bonne retraite.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 70,
+          "text": "J'ai travaillé pour ça!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 71,
+          "text": "White Hat...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 72,
+          "text": "Merci.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 73,
+          "text": "A votre service.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 64,
+          "text": "Ok... je vous doit combien?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "100k $"},
+            {"choiceIndex": 1, "choiceText": "10k $"},
+            {"choiceIndex": 2, "choiceText": "1k $"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 74,
+          "text": "C'est pas si mal!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 63,
+          "text": "Papy Ranoud...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en",
+      "nodes": [
+        {
+          "nodeId": 3,
+          "text": "C'est un moment crucial, je dois faire attention à ce que je révèle à mon client.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 4,
+          "text": "Alyzée a disparue, je vais dire à Jean que je l'ai retrouvé.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Mais est-ce que Jean a besoin de tout savoir?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Je vais devoir faire un choix...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "Mr Ranoud?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 21,
+          "text": "C'est moi, vous avez du nouveau?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "J'ai retrouvé votre fille, elle va bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 23,
+          "text": "Elle est ou???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "(Alyzée n'a peut-être pas envie que son père sache ou elle est.)",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Dire la vérité à Jean Ranoud"},
+            {"choiceIndex": 1, "choiceText": "Ne pas donner l'info"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 8,
+          "text": "Malheureusement la loi m'interdit de vous donner cette information.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 24,
+          "text": "Dis pas n'importe quoi",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 26,
+          "text": "C'est ma fille, balance!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 25,
+          "text": "Alyzée est majeure monsieur, vous n'avez plus tous les droits sur elle.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Enfoiré!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Vous n'êtes pas heureux que votre fille soit enfin devenue une adulte capable de faire ses propres choix?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Pourquoi elle me fait ça? C'est une trahison?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Mr Ranoud, la plupart des fugues n'attendent pas la majorité.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 31,
+          "text": "Elle m'en veut?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 32,
+          "text": "Si votre fille a attendu ses 18 ans avant de partir, c'est pour vous respecter un maximum.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "Je vois...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "C'est une femme maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Elle est avec son petit ami, un certain Marek.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Je vais chercher le fusil",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Allons monsieur c'est normal à son âge!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 39,
+          "text": "Je plaisante White Hat!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Je sais bien, elle est majeure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Elle aurait pu m'en parler...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 42,
+          "text": "C'est quoi comme origine ce prénom, Marek?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "J'espère que c'est pas un branleur!",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est un musicien de talent"},
+            {"choiceIndex": 1, "choiceText": "C'est un branleur"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "Oh non, un vrai branleur!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 48,
+          "text": "C'est un branleur.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "C'est un musicien de talent.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "J'en étais sûr ha ha",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Bon et pourquoi elle est partie sans rien me dire?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Ah ça...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Phobie armes à feu"},
+            {"choiceIndex": 1, "choiceText": "Enceinte"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "J'ai toutes les infos sur Alyzée, je peux contacter Jean Ranoud pour terminer la mission.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 7,
+          "text": "(Je vais dire la vérité à Jean Ranoud.)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 53,
+          "text": "(J'espère qu'il va bien réagir...)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 54,
+          "text": "Elle est enceinte",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 56,
+          "text": "Et Alyzée n'aime pas les armes...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 55,
+          "text": "Elle est tombée sur votre arme à feu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 57,
+          "text": "Mais c'est pour la protéger!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 58,
+          "text": "Quoi???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 59,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 60,
+          "text": "White Hat, ça fait beaucoup là",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Félicitation, papy"},
+            {"choiceIndex": 1, "choiceText": "Vous me payez pour ça"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 61,
+          "text": "Félicitation, papy Ranoud!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 62,
+          "text": "Vous me payez pour ça",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 65,
+          "text": "Vous savez tout maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 67,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 68,
+          "text": "100k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 66,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 69,
+          "text": "C'est pas un souci, j'ai une bonne retraite.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 70,
+          "text": "J'ai travaillé pour ça!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 71,
+          "text": "White Hat...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 72,
+          "text": "Merci.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 73,
+          "text": "A votre service.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 64,
+          "text": "Ok... je vous doit combien?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "100k $"},
+            {"choiceIndex": 1, "choiceText": "10k $"},
+            {"choiceIndex": 2, "choiceText": "1k $"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 74,
+          "text": "C'est pas si mal!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 63,
+          "text": "Papy Ranoud...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "es",
+      "nodes": [
+        {
+          "nodeId": 3,
+          "text": "C'est un moment crucial, je dois faire attention à ce que je révèle à mon client.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 4,
+          "text": "Alyzée a disparue, je vais dire à Jean que je l'ai retrouvé.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Mais est-ce que Jean a besoin de tout savoir?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Je vais devoir faire un choix...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "Mr Ranoud?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 21,
+          "text": "C'est moi, vous avez du nouveau?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "J'ai retrouvé votre fille, elle va bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 23,
+          "text": "Elle est ou???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "(Alyzée n'a peut-être pas envie que son père sache ou elle est.)",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Dire la vérité à Jean Ranoud"},
+            {"choiceIndex": 1, "choiceText": "Ne pas donner l'info"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 8,
+          "text": "Malheureusement la loi m'interdit de vous donner cette information.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 24,
+          "text": "Dis pas n'importe quoi",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 26,
+          "text": "C'est ma fille, balance!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 25,
+          "text": "Alyzée est majeure monsieur, vous n'avez plus tous les droits sur elle.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Enfoiré!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Vous n'êtes pas heureux que votre fille soit enfin devenue une adulte capable de faire ses propres choix?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Pourquoi elle me fait ça? C'est une trahison?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Mr Ranoud, la plupart des fugues n'attendent pas la majorité.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 31,
+          "text": "Elle m'en veut?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 32,
+          "text": "Si votre fille a attendu ses 18 ans avant de partir, c'est pour vous respecter un maximum.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "Je vois...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "C'est une femme maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Elle est avec son petit ami, un certain Marek.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Je vais chercher le fusil",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Allons monsieur c'est normal à son âge!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 39,
+          "text": "Je plaisante White Hat!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Je sais bien, elle est majeure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Elle aurait pu m'en parler...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 42,
+          "text": "C'est quoi comme origine ce prénom, Marek?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "J'espère que c'est pas un branleur!",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est un musicien de talent"},
+            {"choiceIndex": 1, "choiceText": "C'est un branleur"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "Oh non, un vrai branleur!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 48,
+          "text": "C'est un branleur.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "C'est un musicien de talent.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "J'en étais sûr ha ha",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Bon et pourquoi elle est partie sans rien me dire?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Ah ça...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Phobie armes à feu"},
+            {"choiceIndex": 1, "choiceText": "Enceinte"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "J'ai toutes les infos sur Alyzée, je peux contacter Jean Ranoud pour terminer la mission.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 7,
+          "text": "(Je vais dire la vérité à Jean Ranoud.)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 53,
+          "text": "(J'espère qu'il va bien réagir...)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 54,
+          "text": "Elle est enceinte",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 56,
+          "text": "Et Alyzée n'aime pas les armes...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 55,
+          "text": "Elle est tombée sur votre arme à feu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 57,
+          "text": "Mais c'est pour la protéger!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 58,
+          "text": "Quoi???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 59,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 60,
+          "text": "White Hat, ça fait beaucoup là",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Félicitation, papy"},
+            {"choiceIndex": 1, "choiceText": "Vous me payez pour ça"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 61,
+          "text": "Félicitation, papy Ranoud!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 62,
+          "text": "Vous me payez pour ça",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 65,
+          "text": "Vous savez tout maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 67,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 68,
+          "text": "100k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 66,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 69,
+          "text": "C'est pas un souci, j'ai une bonne retraite.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 70,
+          "text": "J'ai travaillé pour ça!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 71,
+          "text": "White Hat...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 72,
+          "text": "Merci.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 73,
+          "text": "A votre service.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 64,
+          "text": "Ok... je vous doit combien?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "100k $"},
+            {"choiceIndex": 1, "choiceText": "10k $"},
+            {"choiceIndex": 2, "choiceText": "1k $"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 74,
+          "text": "C'est pas si mal!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 63,
+          "text": "Papy Ranoud...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "zh",
+      "nodes": [
+        {
+          "nodeId": 3,
+          "text": "C'est un moment crucial, je dois faire attention à ce que je révèle à mon client.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 4,
+          "text": "Alyzée a disparue, je vais dire à Jean que je l'ai retrouvé.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Mais est-ce que Jean a besoin de tout savoir?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Je vais devoir faire un choix...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "Mr Ranoud?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 21,
+          "text": "C'est moi, vous avez du nouveau?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "J'ai retrouvé votre fille, elle va bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 23,
+          "text": "Elle est ou???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "(Alyzée n'a peut-être pas envie que son père sache ou elle est.)",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Dire la vérité à Jean Ranoud"},
+            {"choiceIndex": 1, "choiceText": "Ne pas donner l'info"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 8,
+          "text": "Malheureusement la loi m'interdit de vous donner cette information.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 24,
+          "text": "Dis pas n'importe quoi",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 26,
+          "text": "C'est ma fille, balance!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 25,
+          "text": "Alyzée est majeure monsieur, vous n'avez plus tous les droits sur elle.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Enfoiré!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Vous n'êtes pas heureux que votre fille soit enfin devenue une adulte capable de faire ses propres choix?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Pourquoi elle me fait ça? C'est une trahison?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Mr Ranoud, la plupart des fugues n'attendent pas la majorité.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 31,
+          "text": "Elle m'en veut?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 32,
+          "text": "Si votre fille a attendu ses 18 ans avant de partir, c'est pour vous respecter un maximum.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "Je vois...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "C'est une femme maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Elle est avec son petit ami, un certain Marek.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Je vais chercher le fusil",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Allons monsieur c'est normal à son âge!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 39,
+          "text": "Je plaisante White Hat!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Je sais bien, elle est majeure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Elle aurait pu m'en parler...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 42,
+          "text": "C'est quoi comme origine ce prénom, Marek?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "J'espère que c'est pas un branleur!",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est un musicien de talent"},
+            {"choiceIndex": 1, "choiceText": "C'est un branleur"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "Oh non, un vrai branleur!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 48,
+          "text": "C'est un branleur.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "C'est un musicien de talent.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "J'en étais sûr ha ha",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Bon et pourquoi elle est partie sans rien me dire?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Ah ça...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Phobie armes à feu"},
+            {"choiceIndex": 1, "choiceText": "Enceinte"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "J'ai toutes les infos sur Alyzée, je peux contacter Jean Ranoud pour terminer la mission.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 7,
+          "text": "(Je vais dire la vérité à Jean Ranoud.)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 53,
+          "text": "(J'espère qu'il va bien réagir...)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 54,
+          "text": "Elle est enceinte",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 56,
+          "text": "Et Alyzée n'aime pas les armes...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 55,
+          "text": "Elle est tombée sur votre arme à feu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 57,
+          "text": "Mais c'est pour la protéger!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 58,
+          "text": "Quoi???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 59,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 60,
+          "text": "White Hat, ça fait beaucoup là",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Félicitation, papy"},
+            {"choiceIndex": 1, "choiceText": "Vous me payez pour ça"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 61,
+          "text": "Félicitation, papy Ranoud!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 62,
+          "text": "Vous me payez pour ça",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 65,
+          "text": "Vous savez tout maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 67,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 68,
+          "text": "100k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 66,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 69,
+          "text": "C'est pas un souci, j'ai une bonne retraite.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 70,
+          "text": "J'ai travaillé pour ça!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 71,
+          "text": "White Hat...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 72,
+          "text": "Merci.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 73,
+          "text": "A votre service.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 64,
+          "text": "Ok... je vous doit combien?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "100k $"},
+            {"choiceIndex": 1, "choiceText": "10k $"},
+            {"choiceIndex": 2, "choiceText": "1k $"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 74,
+          "text": "C'est pas si mal!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 63,
+          "text": "Papy Ranoud...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "ja",
+      "nodes": [
+        {
+          "nodeId": 3,
+          "text": "C'est un moment crucial, je dois faire attention à ce que je révèle à mon client.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 4,
+          "text": "Alyzée a disparue, je vais dire à Jean que je l'ai retrouvé.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Mais est-ce que Jean a besoin de tout savoir?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Je vais devoir faire un choix...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "Mr Ranoud?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 21,
+          "text": "C'est moi, vous avez du nouveau?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "J'ai retrouvé votre fille, elle va bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 23,
+          "text": "Elle est ou???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "(Alyzée n'a peut-être pas envie que son père sache ou elle est.)",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Dire la vérité à Jean Ranoud"},
+            {"choiceIndex": 1, "choiceText": "Ne pas donner l'info"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 8,
+          "text": "Malheureusement la loi m'interdit de vous donner cette information.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 24,
+          "text": "Dis pas n'importe quoi",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 26,
+          "text": "C'est ma fille, balance!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 25,
+          "text": "Alyzée est majeure monsieur, vous n'avez plus tous les droits sur elle.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Enfoiré!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Vous n'êtes pas heureux que votre fille soit enfin devenue une adulte capable de faire ses propres choix?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Pourquoi elle me fait ça? C'est une trahison?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Mr Ranoud, la plupart des fugues n'attendent pas la majorité.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 31,
+          "text": "Elle m'en veut?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 32,
+          "text": "Si votre fille a attendu ses 18 ans avant de partir, c'est pour vous respecter un maximum.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "Je vois...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "C'est une femme maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Elle est avec son petit ami, un certain Marek.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Je vais chercher le fusil",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Allons monsieur c'est normal à son âge!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 39,
+          "text": "Je plaisante White Hat!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Je sais bien, elle est majeure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Elle aurait pu m'en parler...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 42,
+          "text": "C'est quoi comme origine ce prénom, Marek?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "J'espère que c'est pas un branleur!",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est un musicien de talent"},
+            {"choiceIndex": 1, "choiceText": "C'est un branleur"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "Oh non, un vrai branleur!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 48,
+          "text": "C'est un branleur.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "C'est un musicien de talent.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "J'en étais sûr ha ha",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Bon et pourquoi elle est partie sans rien me dire?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Ah ça...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Phobie armes à feu"},
+            {"choiceIndex": 1, "choiceText": "Enceinte"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "J'ai toutes les infos sur Alyzée, je peux contacter Jean Ranoud pour terminer la mission.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 7,
+          "text": "(Je vais dire la vérité à Jean Ranoud.)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 53,
+          "text": "(J'espère qu'il va bien réagir...)",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 54,
+          "text": "Elle est enceinte",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 56,
+          "text": "Et Alyzée n'aime pas les armes...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 55,
+          "text": "Elle est tombée sur votre arme à feu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 57,
+          "text": "Mais c'est pour la protéger!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 58,
+          "text": "Quoi???",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 59,
+          "text": "...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 60,
+          "text": "White Hat, ça fait beaucoup là",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Félicitation, papy"},
+            {"choiceIndex": 1, "choiceText": "Vous me payez pour ça"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 61,
+          "text": "Félicitation, papy Ranoud!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 62,
+          "text": "Vous me payez pour ça",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 65,
+          "text": "Vous savez tout maintenant.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 67,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 68,
+          "text": "100k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 66,
+          "text": "10k $",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 69,
+          "text": "C'est pas un souci, j'ai une bonne retraite.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 70,
+          "text": "J'ai travaillé pour ça!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 71,
+          "text": "White Hat...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 72,
+          "text": "Merci.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 73,
+          "text": "A votre service.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 64,
+          "text": "Ok... je vous doit combien?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "100k $"},
+            {"choiceIndex": 1, "choiceText": "10k $"},
+            {"choiceIndex": 2, "choiceText": "1k $"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 74,
+          "text": "C'est pas si mal!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 63,
+          "text": "Papy Ranoud...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    }
+  ]
+}

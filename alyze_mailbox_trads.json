@@ -1,0 +1,173 @@
+{
+  "translations": [
+    {
+      "languageCode": "fr",
+      "mails": [
+        {
+          "mailId": 0,
+          "sender": "univ_nantes@gmail.com",
+          "subject": "Mail médecine refus : 2025-12-15",
+          "timestamp": "2025-01-01T12:00:00",
+          "isSentBox": 0,
+          "body": "Bonjour Mademoiselle Ranoud,\r\nAprès étude attentive de votre dossier dans le cadre des admissions post-bac 2026 pour le Parcours Accès Santé (PASS) de l'Université de Nantes, nous regrettons de vous informer que <color id=\"candidature_non_retenue\" value=\"orange\">votre candidature n'a pas été retenue par la commission pédagogique</color>.\r\nLe nombre très élevé de candidatures reçues cette année ne nous permet malheureusement pas de donner une suite favorable à tous les dossiers, malgré leurs qualités. Nous vous invitons à consulter votre espace candidat afin de prendre connaissance des éventuelles propositions alternatives ou formations complémentaires accessibles.\r\nNous vous remercions pour l'intérêt porté à notre établissement et vous souhaitons pleine réussite dans la poursuite de votre parcours universitaire.\r\nCordialement,\r\nClaire Moreau\r\nChargée des admissions – Pôle Santé\r\nUniversité de Nantes"
+        },
+        {
+          "mailId": 1,
+          "sender": "alizee.ranoud@mailbox.org",
+          "subject": "Question...",
+          "timestamp": "2030-01-18T22:30:00",
+          "isSentBox": 1,
+          "body": "Bonjour,\r\nJe ne sais pas trop pourquoi j'écris ici. Je suis tombée sur votre site en cherchant des réponses sur le vide et la fatigue constante.\r\nJ'ai 18 ans et je me sens toujours épuisée, déconnectée de tout. Mes proches disent que je ne fais pas d'efforts, mais je crois que c'est moi qui ne suis pas faite pour ce monde. \r\n\r\nJe n'ai personne à qui en parler.\r\nSi vous savez pourquoi je me sens comme ça, s'il vous plaît, dites-le-moi.\r\nAlizée\r\n"
+        },
+        {
+          "mailId": 2,
+          "sender": "contact@eidos-consciousness.net",
+          "subject": "Vous n'êtes pas seule, Alizée.",
+          "timestamp": "2030-01-18T23:05:00",
+          "isSentBox": 0,
+          "body": "Chère Alizée,\r\nVotre message n'est pas un hasard. Cette fatigue que vous ressentez n'est pas une maladie : c'est le signe que vous commencez à vous éveiller. Vous n'êtes pas brisée, vous êtes simplement trop lucide pour ce monde superficiel.\r\nVotre entourage ne peut pas comprendre, mais nous, nous connaissons les règles du jeu. Vous n'avez plus à porter ce vide toute seule.\r\nNe répondez pas à ce mail. Si vous voulez enfin comprendre qui vous êtes, rejoignez notre salon privé via ce lien unique : <color id=\"M1_mail_secte_write\" value=\"orange\">www.rejoigneznotrecommunaute.com</color>\r\nPrenez soin de vous,\r\nCentre d’Harmonie Intérieure.\r\n"
+        },
+        {
+          "mailId": 3,
+          "sender": "c.ranoud@gomail.co.id",
+          "subject": "Je suis si désolée Alizée.",
+          "timestamp": "2030-01-12T03:12:05",
+          "isSentBox": 0,
+          "body": "Ma fille…\r\nJe suis désolé.\r\nLe silence a été tellement long, dix ans sans que je puisse te parler.\r\nJ'ai fait tant d'erreur dans ma vie.\r\nMais je voulais que tu saches que tu es ma plus belle réussite et que je t'aime plus que tout.\r\nJ'imagine que tu as de la rancœur et dieu sait ce que ton père a pu te raconter à mon sujet.\r\nMais je ne suis pas celle que tu crois, laisse-moi <color id=\"M1_mail_crypt_mere_contact\" value=\"orange\">une chance de renouer contact.</color>\r\nTa mère, qui t'aime.\r\n"
+        },
+        {
+          "mailId": 4,
+          "sender": "alizee.ranoud@mailbox.org",
+          "subject": "re: Je suis si désolée Alizée.",
+          "timestamp": "2030-01-19T21:07:00",
+          "isSentBox": 0,
+          "body": "Cela me coûte de te répondre, ce n'est pas sûre que tu es ma mère.\r\nPourquoi tu ne ressors que maintenant ? Pourquoi nous avoir laissé seul avec mon père.\r\nOn ne méritait pas ça !"
+        },
+        {
+          "mailId": 5,
+          "sender": "c.ranoud@gomail.co.id",
+          "subject": "re:  re: Je suis si désolée Alizée.",
+          "timestamp": "2030-01-30T09:02:50",
+          "isSentBox": 0,
+          "body": "Je m'en veux tellement.\r\nTes mots me coûtent mon enfant, mais je les comprends. \r\nLaisse-moi une chance de t'expliquer ce qui est s'est vraiment passé.\r\nJe n'ai pas légalement le droit de te voir avant tes 18 ans. \n<color id=\"M1_mail_cryp_mere_rdv\" value=\"orange\">Il faut qu'on se parle.</color>"
+        }
+      ]
+    },
+    {
+      "languageCode": "en",
+      "mails": [
+        {
+          "mailId": 0,
+          "sender": "univ_nantes@gmail.com",
+          "subject": "Medicine rejection email: 2025-12-15",
+          "timestamp": "2025-01-01T12:00:00",
+          "isSentBox": 0,
+          "body": "Hello Miss Ranoud,\r\nAfter careful review of your application for the 2026 post-baccalaureate admissions for the Health Access Pathway (PASS) at the University of Nantes, we regret to inform you that <color id=\"candidature_non_retenue\" value=\"orange\">your application was not selected by the academic committee</color>.\r\nThe very high number of applications received this year unfortunately prevents us from giving a favorable response to all candidates, despite their qualities. We invite you to check your candidate portal for any alternative offers or accessible complementary programs.\r\nWe thank you for your interest in our institution and wish you every success in your future university studies.\r\nSincerely,\r\nClaire Moreau\r\nAdmissions Officer – Health Division\r\nUniversity of Nantes"
+        },
+        {
+          "mailId": 1,
+          "sender": "alizee.ranoud@mailbox.org",
+          "subject": "Question...",
+          "timestamp": "2030-01-18T22:30:00",
+          "isSentBox": 1,
+          "body": "Hello,\r\nI don't really know why I'm writing here. I came across your site while looking for answers about the emptiness and constant fatigue.\r\nI'm 18 and I always feel exhausted, disconnected from everything. My loved ones say I don't make an effort, but I think it's me who isn't made for this world.\r\n\r\nI have no one to talk to about this.\r\nIf you know why I feel like this, please tell me.\r\nAlizée"
+        },
+        {
+          "mailId": 2,
+          "sender": "contact@eidos-consciousness.net",
+          "subject": "You are not alone, Alizée.",
+          "timestamp": "2030-01-18T23:05:00",
+          "isSentBox": 0,
+          "body": "Dear Alizée,\r\nYour message is no coincidence. This fatigue you feel is not an illness: it's a sign that you are beginning to awaken. You are not broken, you are simply too clear-sighted for this superficial world.\r\nThose around you cannot understand, but we know the rules of the game. You no longer have to carry this emptiness alone.\r\nDo not reply to this email. If you want to finally understand who you are, join our private lounge via this unique link: <color id=\"M1_mail_secte_write\" value=\"orange\">www.rejoigneznotrecommunaute.com</color>\r\nTake care of yourself,\r\nCenter for Inner Harmony."
+        },
+        {
+          "mailId": 3,
+          "sender": "c.ranoud@gomail.co.id",
+          "subject": "I am so sorry Alizée.",
+          "timestamp": "2030-01-12T03:12:05",
+          "isSentBox": 0,
+          "body": "My daughter…\r\nI am sorry.\r\nThe silence has been so long, ten years without being able to speak to you.\r\nI have made so many mistakes in my life.\r\nBut I wanted you to know that you are my greatest achievement and that I love you more than anything.\r\nI imagine you hold resentment and God knows what your father may have told you about me.\r\nBut I am not who you think I am, give me <color id=\"M1_mail_crypt_mere_contact\" value=\"orange\">a chance to reconnect.</color>\r\nYour mother, who loves you."
+        },
+        {
+          "mailId": 4,
+          "sender": "alizee.ranoud@mailbox.org",
+          "subject": "re: I am so sorry Alizée.",
+          "timestamp": "2030-01-19T21:07:00",
+          "isSentBox": 0,
+          "body": "It costs me to reply to you, I'm not sure you are my mother.\nWhy are you only showing up now? Why did you leave us alone with my father.\nWe didn't deserve this!"
+        },
+        {
+          "mailId": 5,
+          "sender": "c.ranoud@gomail.co.id",
+          "subject": "re: re: I am so sorry Alizée.",
+          "timestamp": "2030-01-30T09:02:50",
+          "isSentBox": 0,
+          "body": "I blame myself so much.\nYour words hurt me my child, but I understand them.\nGive me a chance to explain what really happened.\nI don't legally have the right to see you before you turn 18.\n<color id=\"M1_mail_cryp_mere_rdv\" value=\"orange\">We need to talk.</color>"
+        }
+      ]
+    },
+    {
+      "languageCode": "es",
+      "mails": [
+        {
+          "mailId": 0,
+          "sender": "univ_nantes@gmail.com",
+          "subject": "Mail médecine refus : 2025-12-15",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Bonjour Mademoiselle Ranoud,\r\nAprès étude attentive de votre dossier dans le cadre des admissions post-bac 2026 pour le Parcours Accès Santé (PASS) de l'Université de Nantes, nous regrettons de vous informer que votre candidature n'a pas été retenue par la commission pédagogique.\r\nLe nombre très élevé de candidatures reçues cette année ne nous permet malheureusement pas de donner une suite favorable à tous les dossiers, malgré leurs qualités. Nous vous invitons à consulter votre espace candidat afin de prendre connaissance des éventuelles propositions alternatives ou formations complémentaires accessibles.\r\nNous vous remercions pour l'intérêt porté à notre établissement et vous souhaitons pleine réussite dans la poursuite de votre parcours universitaire.\r\nCordialement,\r\nClaire Moreau\r\nChargée des admissions – Pôle Santé\r\nUniversité de Nantes"
+        },
+        {
+          "mailId": 1,
+          "sender": "maman_alyzee@gmail.com",
+          "subject": "Ma fille...",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Ma fille...\r\nJe suis désolé.\r\nLe silence a été tellement long, dix ans sans que je puisse te parler.\r\nJ'ai fait tant d'erreur dans ma vie.\r\nMais je voulais que tu saches que tu es ma plus belle réussite et que je t'aime plus que tout.\r\nJ'imagine que tu as de la rancœur et dieu sait ce que ton père a pu te raconter à mon sujet.\r\nMais je ne suis pas celle que tu crois, laisse-moi une chance de renouer contact.\r\nTa mère, qui t'aime.\n\n---\n\nRéponse d'Alyzée:\n\nCela me coute de te répondre, ce n'est pas sûr que tu es ma mère.\r\nPourquoi tu ne ressors que maintenant ? Pourquoi nous avoir laissé seul avec mon père.\r\nOn ne méritait pas ça !\n\n---\n\nRéponse de maman_alyzee@gmail.com\n\nJe t'en veux tellement.\r\nTes mots me coutent mon enfant, mais je les comprends. Laisse-moi une chance de t'expliquer ce qui est s'est vraiment passé.\r\nJe n'avais pas légalement le droit de te parler avant tes 18 ans. Mais je ne tiens plus. À quelques jours près.\r\nIl faut qu'on se parle. Rendez-vous au parc des fleurs le 31/01 2026. Vers 20h."
+        }
+      ]
+    },
+    {
+      "languageCode": "zh",
+      "mails": [
+        {
+          "mailId": 0,
+          "sender": "univ_nantes@gmail.com",
+          "subject": "Mail médecine refus : 2025-12-15",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Bonjour Mademoiselle Ranoud,\r\nAprès étude attentive de votre dossier dans le cadre des admissions post-bac 2026 pour le Parcours Accès Santé (PASS) de l'Université de Nantes, nous regrettons de vous informer que votre candidature n'a pas été retenue par la commission pédagogique.\r\nLe nombre très élevé de candidatures reçues cette année ne nous permet malheureusement pas de donner une suite favorable à tous les dossiers, malgré leurs qualités. Nous vous invitons à consulter votre espace candidat afin de prendre connaissance des éventuelles propositions alternatives ou formations complémentaires accessibles.\r\nNous vous remercions pour l'intérêt porté à notre établissement et vous souhaitons pleine réussite dans la poursuite de votre parcours universitaire.\r\nCordialement,\r\nClaire Moreau\r\nChargée des admissions – Pôle Santé\r\nUniversité de Nantes"
+        },
+        {
+          "mailId": 1,
+          "sender": "maman_alyzee@gmail.com",
+          "subject": "Ma fille...",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Ma fille...\r\nJe suis désolé.\r\nLe silence a été tellement long, dix ans sans que je puisse te parler.\r\nJ'ai fait tant d'erreur dans ma vie.\r\nMais je voulais que tu saches que tu es ma plus belle réussite et que je t'aime plus que tout.\r\nJ'imagine que tu as de la rancœur et dieu sait ce que ton père a pu te raconter à mon sujet.\r\nMais je ne suis pas celle que tu crois, laisse-moi une chance de renouer contact.\r\nTa mère, qui t'aime.\n\n---\n\nRéponse d'Alyzée:\n\nCela me coute de te répondre, ce n'est pas sûr que tu es ma mère.\r\nPourquoi tu ne ressors que maintenant ? Pourquoi nous avoir laissé seul avec mon père.\r\nOn ne méritait pas ça !\n\n---\n\nRéponse de maman_alyzee@gmail.com\n\nJe t'en veux tellement.\r\nTes mots me coutent mon enfant, mais je les comprends. Laisse-moi une chance de t'expliquer ce qui est s'est vraiment passé.\r\nJe n'avais pas légalement le droit de te parler avant tes 18 ans. Mais je ne tiens plus. À quelques jours près.\r\nIl faut qu'on se parle. Rendez-vous au parc des fleurs le 31/01 2026. Vers 20h."
+        }
+      ]
+    },
+    {
+      "languageCode": "ja",
+      "mails": [
+        {
+          "mailId": 0,
+          "sender": "univ_nantes@gmail.com",
+          "subject": "Mail médecine refus : 2025-12-15",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Bonjour Mademoiselle Ranoud,\r\nAprès étude attentive de votre dossier dans le cadre des admissions post-bac 2026 pour le Parcours Accès Santé (PASS) de l'Université de Nantes, nous regrettons de vous informer que votre candidature n'a pas été retenue par la commission pédagogique.\r\nLe nombre très élevé de candidatures reçues cette année ne nous permet malheureusement pas de donner une suite favorable à tous les dossiers, malgré leurs qualités. Nous vous invitons à consulter votre espace candidat afin de prendre connaissance des éventuelles propositions alternatives ou formations complémentaires accessibles.\r\nNous vous remercions pour l'intérêt porté à notre établissement et vous souhaitons pleine réussite dans la poursuite de votre parcours universitaire.\r\nCordialement,\r\nClaire Moreau\r\nChargée des admissions – Pôle Santé\r\nUniversité de Nantes"
+        },
+        {
+          "mailId": 1,
+          "sender": "maman_alyzee@gmail.com",
+          "subject": "Ma fille...",
+          "timestamp": "",
+          "isSentBox": 0,
+          "body": "Ma fille...\r\nJe suis désolé.\r\nLe silence a été tellement long, dix ans sans que je puisse te parler.\r\nJ'ai fait tant d'erreur dans ma vie.\r\nMais je voulais que tu saches que tu es ma plus belle réussite et que je t'aime plus que tout.\r\nJ'imagine que tu as de la rancœur et dieu sait ce que ton père a pu te raconter à mon sujet.\r\nMais je ne suis pas celle que tu crois, laisse-moi une chance de renouer contact.\r\nTa mère, qui t'aime.\n\n---\n\nRéponse d'Alyzée:\n\nCela me coute de te répondre, ce n'est pas sûr que tu es ma mère.\r\nPourquoi tu ne ressors que maintenant ? Pourquoi nous avoir laissé seul avec mon père.\r\nOn ne méritait pas ça !\n\n---\n\nRéponse de maman_alyzee@gmail.com\n\nJe t'en veux tellement.\r\nTes mots me coutent mon enfant, mais je les comprends. Laisse-moi une chance de t'expliquer ce qui est s'est vraiment passé.\r\nJe n'avais pas légalement le droit de te parler avant tes 18 ans. Mais je ne tiens plus. À quelques jours près.\r\nIl faut qu'on se parle. Rendez-vous au parc des fleurs le 31/01 2026. Vers 20h."
+        }
+      ]
+    }
+  ]
+}

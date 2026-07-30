@@ -1,0 +1,4067 @@
+{
+  "translations": [
+    {
+      "languageCode": "fr",
+      "nodes": [
+        {
+          "nodeId": 118,
+          "text": "We are no longer safe anywhere, financial systems are on the brink of collapse.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 119,
+          "text": "But fortunately our beloved governments have been working together for years on a miracle solution: <orange>Sentinel</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 120,
+          "text": "Gilles, our technology expert, can you tell us more?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 90,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 121,
+          "text": "Indeed, Karine, Sentinel is THE solution to all our woes. It's the first intelligence…",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 167,
+          "text": "... established on <orange>quantum servers!</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 122,
+          "text": "Meaning it can be everywhere at once... and at the same time, it's as if it's not there!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 123,
+          "text": "In short, Sentinel monitors everyone, everywhere, all the time, Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 168,
+          "text": "... it's quantum!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 124,
+          "text": "Yes! And if we don't act right, Sentinel catches us and punishes us!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 178,
+          "text": "It requires no technical skill... and yet, it will make all the difference.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 185,
+          "text": "Charisma!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 188,
+          "text": "An unexpected answer. Interesting, but inaccurate.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 179,
+          "text": "Probably because I had an excellent mentor!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 180,
+          "text": "It's because I'm overpowered!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 187,
+          "text": "Ethics!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 186,
+          "text": "I don't know.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 183,
+          "text": "Admitting a lack of data is the first step toward rigorous analysis. It's the beginning of wisdom.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 189,
+          "text": "Exactly. You've identified the right variable.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 171,
+          "text": "Don't obey. Understand. Judge. Act.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "It's terrible. Have you received a ransom demand?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "You know your stuff...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Are you a hacker?"},
+            {"choiceIndex": 1, "choiceText": "Un débutant ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "It worked right away, I sucked up all the content from Alizée's phone!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "You installed unknown software bought from a stranger on your daughter's phone?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "Obviously! He's not a stranger anyway, I've already bought a discreet camera system from him.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 166,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "It's totally reckless."},
+            {"choiceIndex": 1, "choiceText": "Il s'est passé quoi ensuite ?"},
+            {"choiceIndex": 2, "choiceText": "Impressionnant, vous êtes un vrai hacker !"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 214,
+          "text": "So what? It worked.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "And there's a <color id=\"M1_crypted\" value=\"orange\">encrypted</color> thing I couldn't read.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "crypté", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Anyway, your turn.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 98,
+          "text": "However, you know it's not free?\nPayable in cryptocurrency.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "It'll be 2,000 € upon success only."},
+            {"choiceIndex": 1, "choiceText": "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement."}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Here's the archive.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Thanks, I'll send you a full report as soon as possible.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 221,
+          "text": "I'm waiting for your report!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 203,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 91,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 153,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 142,
+          "text": "I don't understand any of this, Gilles!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 143,
+          "text": "That's normal, Karine...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Rest assured sir, we'll find her.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 115,
+          "text": "300% increase!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 117,
+          "text": "And no, I'm not talking about my salary, but about <orange>cybercrime</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 109,
+          "text": "I now have access to Alyzée's phone archives.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 192,
+          "text": "<player_pseudo>, initializing operational phase.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 222,
+          "text": "We're there.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 182,
+          "text": "Flattering, but strategic. A flattering hypothesis.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 156,
+          "text": "But there's still a variable I've never been able to measure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 163,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 231,
+          "text": "A beginner?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "It's a disgrace.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Rest assured, sir, we will find her."},
+            {"choiceIndex": 1, "choiceText": "C'est terrible. Avez-vous reçu une demande de rançon ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 208,
+          "text": "I had prepared a cake for her.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "However, the <color id=\"M1_phone_empty\" value=\"orange\">phone is surprisingly empty</color>, few texts, emails, or images.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "téléphone", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 126,
+          "text": "That sends chills down my spine, Gilles!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 195,
+          "text": "Do you have something to hide, Karine?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 128,
+          "text": "That's not the question! And our <orange>private life</orange> Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 129,
+          "text": "That doesn't exist for Sentinel!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 150,
+          "text": "We can trust them for responsible use, a request oversight committee was formed after all!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 130,
+          "text": "Ah, in that case, I don't see how this could go wrong.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 169,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 193,
+          "text": "Today, I'm going to entrust you with your first case.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 223,
+          "text": "We've worked together enough for me to know your worth.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 226,
+          "text": "You're part of the <color id=\"intro_anon_perserverant\" value=\"orange\">rare profiles who held out until the end. </color>",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "I had a good mentor"},
+            {"choiceIndex": 1, "choiceText": "Je suis génial"}
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "rares profils qui ont tenu jusqu'au bout. ", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 181,
+          "text": "A bold conclusion.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 224,
+          "text": "Keep leveraging this emotional intelligence, it will be valuable.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 225,
+          "text": "Just be careful not to overestimate your results.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 155,
+          "text": "<player_pseudo>, I no longer have any doubt about your analytical abilities.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 176,
+          "text": "Have you guessed what I'm talking about?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Charisma"},
+            {"choiceIndex": 1, "choiceText": "L'éthique"},
+            {"choiceIndex": 2, "choiceText": "Je ne sais pas"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 184,
+          "text": "I'm talking about ethics, <player_pseudo>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 158,
+          "text": "In this case, I'll observe your decisions to establish your ethics index.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 160,
+          "text": "It's neither a judgment nor a grade.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 191,
+          "text": "I'm simply trying to understand who you are when no one tells you what to do.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 196,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 161,
+          "text": "Your first client is Jean Ranoud, his daughter has disappeared.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 162,
+          "text": "Find her, <player_pseudo>, I'll put you in contact.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 164,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 96,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "Hello?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 197,
+          "text": "Are you Taïe What?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "It's White Hat.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "And you, are you the boomer in distress?"},
+            {"choiceIndex": 1, "choiceText": "Que puis-je pour vous?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 228,
+          "text": "And you, are you the boomer in distress?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 229,
+          "text": "What can I do for you?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 199,
+          "text": "Good... finally someone who'll be useful.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 198,
+          "text": "Oh, a little respect. I'm paying, I have the right to get the name wrong!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 232,
+          "text": "TODO: On the interface, tutorial to make it clear that you can click on the orange dialogue.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 207,
+          "text": "My daughter Alizée disappeared <color id=\"alyzee_disparu_18\" value=\"orange\">on the day of her eighteenth birthday.</color>",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "le jour de ses dix-huit ans.", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 227,
+          "text": "Two days later, still nothing! And the police refuse to act on the pretext that she's an adult.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "A ransom? No, nothing, what an idea.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 210,
+          "text": "I certainly hope so.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Do you have any idea where she might be?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "If I knew, I wouldn't be paying a hacker.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 211,
+          "text": "She challenged everything: rules, schedules, my decisions... I've been raising her alone for 10 years! I do everything for her own good.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Lately, she was on edge. Someone messed with her head, that's for sure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 212,
+          "text": "I know I'm not perfect, but who is? Anyway.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 165,
+          "text": "I've already made progress on the investigation. I'm a bit of a hacker myself.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 230,
+          "text": "Are you a hacker?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "I found a guy on the darkweb who sold me a magic USB key.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 215,
+          "text": "Thanks. But I'm expecting a discount, since I did the heavy lifting.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Send me the data.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "Money is not a problem.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "I have a good pension. I worked for it!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "That works for me, but hurry up.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 219,
+          "text": "It's a high price to pay just to open a file, but I have no choice. Hurry up.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 110,
+          "text": "I need to find out why she disappeared, if she's okay, who knows... and where she is.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 112,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en",
+      "nodes": [
+        {
+          "nodeId": 118,
+          "text": "We are no longer safe anywhere, financial systems are on the brink of collapse.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 119,
+          "text": "But fortunately our beloved governments have been working together for years on a miracle solution: <orange>Sentinel</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 120,
+          "text": "Gilles, our technology expert, can you tell us more?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 90,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 121,
+          "text": "Indeed, Karine, Sentinel is THE solution to all our woes. It's the first intelligence…",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 167,
+          "text": "... established on <orange>quantum servers!</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 122,
+          "text": "Meaning it can be everywhere at once... and at the same time, it's as if it's not there!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 123,
+          "text": "In short, Sentinel monitors everyone, everywhere, all the time, Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 168,
+          "text": "... it's quantum!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 124,
+          "text": "Yes! And if we don't act right, Sentinel catches us and punishes us!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 178,
+          "text": "It requires no technical skill... and yet, it will make all the difference.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 185,
+          "text": "Charisma!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 188,
+          "text": "An unexpected answer. Interesting, but inaccurate.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 179,
+          "text": "Probably because I had an excellent mentor!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 180,
+          "text": "It's because I'm overpowered!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 187,
+          "text": "Ethics!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 186,
+          "text": "I don't know.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 183,
+          "text": "Admitting a lack of data is the first step toward rigorous analysis. It's the beginning of wisdom.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 189,
+          "text": "Exactly. You've identified the right variable.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 171,
+          "text": "Don't obey. Understand. Judge. Act.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "It's terrible. Have you received a ransom demand?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "You know your stuff...",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Are you a hacker?"},
+            {"choiceIndex": 1, "choiceText": "Un débutant ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "It worked right away, I sucked up all the content from Alizée's phone!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "You installed unknown software bought from a stranger on your daughter's phone?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "Obviously! He's not a stranger anyway, I've already bought a discreet camera system from him.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 166,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "It's totally reckless."},
+            {"choiceIndex": 1, "choiceText": "Il s'est passé quoi ensuite ?"},
+            {"choiceIndex": 2, "choiceText": "Impressionnant, vous êtes un vrai hacker !"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 214,
+          "text": "So what? It worked.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "And there's a <color id=\"M1_crypted\" value=\"orange\">encrypted</color> thing I couldn't read.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "crypté", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Anyway, your turn.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 98,
+          "text": "However, you know it's not free?\nPayable in cryptocurrency.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "It'll be 2,000 € upon success only."},
+            {"choiceIndex": 1, "choiceText": "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement."}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Here's the archive.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Thanks, I'll send you a full report as soon as possible.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 221,
+          "text": "I'm waiting for your report!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 203,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 91,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 153,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 142,
+          "text": "I don't understand any of this, Gilles!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 143,
+          "text": "That's normal, Karine...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Rest assured sir, we'll find her.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 115,
+          "text": "300% increase!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 117,
+          "text": "And no, I'm not talking about my salary, but about <orange>cybercrime</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 109,
+          "text": "I now have access to Alyzée's phone archives.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 192,
+          "text": "<player_pseudo>, initializing operational phase.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 222,
+          "text": "We're there.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 182,
+          "text": "Flattering, but strategic. A flattering hypothesis.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 156,
+          "text": "But there's still a variable I've never been able to measure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 163,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 231,
+          "text": "A beginner?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "It's a disgrace.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Rest assured, sir, we will find her."},
+            {"choiceIndex": 1, "choiceText": "C'est terrible. Avez-vous reçu une demande de rançon ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 208,
+          "text": "I had prepared a cake for her.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "However, the <color id=\"M1_phone_empty\" value=\"orange\">phone is surprisingly empty</color>, few texts, emails, or images.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "téléphone", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 126,
+          "text": "That sends chills down my spine, Gilles!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 195,
+          "text": "Do you have something to hide, Karine?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 128,
+          "text": "That's not the question! And our <orange>private life</orange> Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 129,
+          "text": "That doesn't exist for Sentinel!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 150,
+          "text": "We can trust them for responsible use, a request oversight committee was formed after all!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 130,
+          "text": "Ah, in that case, I don't see how this could go wrong.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 169,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 193,
+          "text": "Today, I'm going to entrust you with your first case.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 223,
+          "text": "We've worked together enough for me to know your worth.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 226,
+          "text": "You're part of the <color id=\"intro_anon_perserverant\" value=\"orange\">rare profiles who held out until the end. </color>",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "I had a good mentor"},
+            {"choiceIndex": 1, "choiceText": "Je suis génial"}
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "rares profils qui ont tenu jusqu'au bout. ", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 181,
+          "text": "A bold conclusion.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 224,
+          "text": "Keep leveraging this emotional intelligence, it will be valuable.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 225,
+          "text": "Just be careful not to overestimate your results.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 155,
+          "text": "<player_pseudo>, I no longer have any doubt about your analytical abilities.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 176,
+          "text": "Have you guessed what I'm talking about?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Charisma"},
+            {"choiceIndex": 1, "choiceText": "L'éthique"},
+            {"choiceIndex": 2, "choiceText": "Je ne sais pas"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 184,
+          "text": "I'm talking about ethics, <player_pseudo>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 158,
+          "text": "In this case, I'll observe your decisions to establish your ethics index.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 160,
+          "text": "It's neither a judgment nor a grade.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 191,
+          "text": "I'm simply trying to understand who you are when no one tells you what to do.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 196,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 161,
+          "text": "Your first client is Jean Ranoud, his daughter has disappeared.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 162,
+          "text": "Find her, <player_pseudo>, I'll put you in contact.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 164,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 96,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "Hello?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 197,
+          "text": "Are you Taïe What?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "It's White Hat.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "And you, are you the boomer in distress?"},
+            {"choiceIndex": 1, "choiceText": "Que puis-je pour vous?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 228,
+          "text": "And you, are you the boomer in distress?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 229,
+          "text": "What can I do for you?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 199,
+          "text": "Good... finally someone who'll be useful.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 198,
+          "text": "Oh, a little respect. I'm paying, I have the right to get the name wrong!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 232,
+          "text": "TODO: On the interface, tutorial to make it clear that you can click on the orange dialogue.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 207,
+          "text": "My daughter Alizée disappeared <color id=\"alyzee_disparu_18\" value=\"orange\">on the day of her eighteenth birthday.</color>",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "le jour de ses dix-huit ans.", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 227,
+          "text": "Two days later, still nothing! And the police refuse to act on the pretext that she's an adult.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "A ransom? No, nothing, what an idea.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 210,
+          "text": "I certainly hope so.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Do you have any idea where she might be?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "If I knew, I wouldn't be paying a hacker.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 211,
+          "text": "She challenged everything: rules, schedules, my decisions... I've been raising her alone for 10 years! I do everything for her own good.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Lately, she was on edge. Someone messed with her head, that's for sure.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 212,
+          "text": "I know I'm not perfect, but who is? Anyway.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 165,
+          "text": "I've already made progress on the investigation. I'm a bit of a hacker myself.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 230,
+          "text": "Are you a hacker?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "I found a guy on the darkweb who sold me a magic USB key.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 215,
+          "text": "Thanks. But I'm expecting a discount, since I did the heavy lifting.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Send me the data.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "Money is not a problem.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": "I have a good pension. I worked for it!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "That works for me, but hurry up.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 219,
+          "text": "It's a high price to pay just to open a file, but I have no choice. Hurry up.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 110,
+          "text": "I need to find out why she disappeared, if she's okay, who knows... and where she is.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 112,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "es",
+      "nodes": [
+        {
+          "nodeId": 117,
+          "text": "Et non je ne parle pas de mon salaire, mais bien de la <orange>cybercriminalité</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 118,
+          "text": "Nous ne sommes plus à l'abri nulle part, les systèmes <k>financiers</k> sont au bord de la rupture.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "financiers", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 119,
+          "text": "Mais heureusement nos bien aimés gouvernements travaillent conjointement depuis des années sur une solution miracle : <orange>Sentinelle</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 120,
+          "text": "Gilles, notre expert en technologie, pouvez-vous nous en dire plus ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 90,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 121,
+          "text": "En effet, Karine, Sentinelle est LA solution à tous nos malheurs. C’est la première intelligence…",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 167,
+          "text": "... établie sur des serveurs <orange>quantiques !</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 122,
+          "text": "C'est-à-dire qu'elle peut être partout à la fois... et en même temps, c'est comme si elle n'était pas là !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 123,
+          "text": "En clair, Sentinelle surveille tout le monde, partout, et tout le temps, Gilles ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 168,
+          "text": "... c'est quantique !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 124,
+          "text": "Oui ! Et si nous n'agissons pas bien, Sentinelle nous attrape et nous punit !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 129,
+          "text": "Ça n'existe pas pour Sentinelle !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 176,
+          "text": "As-tu deviné de quoi je parle ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Le charisme"},
+            {"choiceIndex": 1, "choiceText": "L'éthique"},
+            {"choiceIndex": 2, "choiceText": "Je ne sais pas"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 182,
+          "text": "Flatteur, mais stratégique. Une hypothèse flatteuse. Continue d'exploiter cette intelligence émotionnelle. Elle sera précieuse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 155,
+          "text": "<hero_name>, je n'ai plus de doute sur tes capacités d'analyse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 156,
+          "text": "Mais il reste une variable que je n'ai jamais pu mesurer. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 178,
+          "text": "Elle ne demande aucune compétence technique... et pourtant, elle fera toute la différence. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 185,
+          "text": "Le charisme!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 188,
+          "text": "Une réponse inattendue. Intéressante, mais inexacte. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 192,
+          "text": "<player_pseudo>, initialisation de la phase opérationnelle. On y est. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 179,
+          "text": "Probablement parce que j'ai eu un excellent mentor",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 180,
+          "text": "C'est parce que je suis surpuissant !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 110,
+          "text": "Je dois trouver <orange>pourquoi</orange> elle a disparu, si elle va bien, <orange>qui est au courant..</orange> et idéalement <orange>à quel endroit</orange> elle se trouve.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 112,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 154,
+          "text": "Nous avons suffisamment travaillé ensemble pour que je connaisse ta valeur. \r\nTu fais partie des rares profils qui ont tenu jusqu'au bout. ",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "J'ai eu un bon prof"},
+            {"choiceIndex": 1, "choiceText": "Je suis génial"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 126,
+          "text": "Ça fait froid dans le dos, Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 195,
+          "text": "Vous avez quelque chose à cacher, Karine?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 128,
+          "text": "Ce n'est pas la question! Et notre <orange>vie privé</orange> Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 130,
+          "text": "Ah, dans ce cas, je ne vois pas comment ça pourrait mal tourner.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 181,
+          "text": "Une conclusion audacieuse. Veille simplement à ne pas surestimer tes résultats. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 187,
+          "text": "L'éthique!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 186,
+          "text": "Je ne sais pas.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 183,
+          "text": "Admettre une absence de données est le premier pas vers une analyse rigoureuse. C'est le début de la sagesse.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 189,
+          "text": "Exact. Tu as identifié la bonne variable. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 184,
+          "text": "Je parle de <orange>l'éthique,</orange> <player_pseudo>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 158,
+          "text": "Dans cette affaire, j'observerai tes décisions afin d'établir ton indice d'éthique. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 160,
+          "text": "Ce n'est ni un jugement ni une note. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 191,
+          "text": "Je cherche simplement à comprendre qui tu es lorsque personne ne te dit quoi faire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 162,
+          "text": "Retrouve là, <player_pseudo>, je te mets en contact.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 161,
+          "text": "Ton <orange>premier client</orange> s'appelle Jean Anoud, sa fille a disparu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 196,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 171,
+          "text": "N'obéis pas. Comprends. Juge. Agis.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 169,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "Allo?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 197,
+          "text": "C'est vous le <orange>Taïe What ?</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "C'est <orange>White Hat</orange>.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Et vous, vous êtes le boomer en détresse ?"},
+            {"choiceIndex": 1, "choiceText": "Que puis-je pour vous?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 198,
+          "text": "Oh, un peu de respect. Je paye, j'ai le droit de me tromper de nom ! ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 199,
+          "text": "Bon... enfin quelqu'un qui va servir à quelque chose.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 207,
+          "text": "Ma fille Alizée a disparu le jour de ses dix-huit ans.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "Une rançon ? Non, rien, quelle idée. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 210,
+          "text": "J'espère bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "C'est terrible. Avez-vous reçu une demande de rançon ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Deux jours plus tard, toujours rien ! Et la police refuse de bouger sous prétexte qu'elle est majeure. C'est une honte.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Rassurez-vous monsieur, nous allons la retrouver."},
+            {"choiceIndex": 1, "choiceText": "C'est terrible. Avez-vous reçu une demande de rançon ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 208,
+          "text": " Je lui avais préparé un gâteau.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Vous avez une idée de l'endroit où elle pourrait être ?\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Si je le savais, je ne paierais pas un hacker.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Vous vous y connaissez en cybersécurité ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Vous êtes hacker ?"},
+            {"choiceIndex": 1, "choiceText": "Un débutant ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 165,
+          "text": "J'ai déjà avancé sur l'enquête. Je suis un peu hacker moi-même. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 212,
+          "text": "Je sais que je ne suis pas parfait, mais qui l'est ? Enfin bref.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 213,
+          "text": " Je vois.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée ! \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 166,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est d'une imprudence totale."},
+            {"choiceIndex": 1, "choiceText": "Il s'est passé quoi ensuite ?"},
+            {"choiceIndex": 2, "choiceText": "Impressionnant, vous êtes un vrai hacker !"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 214,
+          "text": "Ben quoi ? Ça a marché.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 215,
+          "text": "Merci. Mais j'attends une ristourne, vu que j'ai fait le plus gros. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Et y'a un truc crypté que j'ai pas réussi à lire.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Bref, à vous de jouer.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Envoyez-moi les données. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 98,
+          "text": "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "L'argent n'est pas un problème.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": " J'ai une bonne retraite. J'ai travaillé pour ça !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "J'ai regardé toutes ses photos",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Ce sera 2 000 € en cas de succès uniquement."},
+            {"choiceIndex": 1, "choiceText": "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement."}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "Ça me va, mais dépêchez-vous.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 219,
+          "text": "C'est cher payé pour ouvrir un fichier, mais j'ai pas le choix. Dépêchez-vous. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Voilà l'archive.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Merci, je vous ferais un rapport complet dès que possible.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 221,
+          "text": "J'attend votre rapport !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 109,
+          "text": "J'ai désormais accès aux archives du téléphone d'Alyzée.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 203,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 91,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 96,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 193,
+          "text": "Aujourd'hui, je vais te confier ta première affaire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 211,
+          "text": "Elle contestait tout : les règles, les horaires, mes décisions... Je l'élève seul depuis 10 ans ! Je fais tout pour son bien. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Par contre, le téléphone est étonnamment vide, peu de sms, mail, ou images. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 164,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 163,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 153,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 150,
+          "text": "On peut leur faire confiance pour une utilisation responsable, un comité de contrôle des demandes a été formé quand même !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 142,
+          "text": "Je n'y comprends rien Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 143,
+          "text": "C'est normal, Karine...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 115,
+          "text": "300% d'augmentation !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Rassurez-vous <k>monsieur</k>, nous allons la <k>retrouver</k>.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "monsieur", "description": "monsieur_est_un_monsieur"}
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "zh",
+      "nodes": [
+        {
+          "nodeId": 117,
+          "text": "Et non je ne parle pas de mon salaire, mais bien de la <orange>cybercriminalité</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 118,
+          "text": "Nous ne sommes plus à l'abri nulle part, les systèmes <k>financiers</k> sont au bord de la rupture.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "financiers", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 119,
+          "text": "Mais heureusement nos bien aimés gouvernements travaillent conjointement depuis des années sur une solution miracle : <orange>Sentinelle</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 120,
+          "text": "Gilles, notre expert en technologie, pouvez-vous nous en dire plus ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 90,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 121,
+          "text": "En effet, Karine, Sentinelle est LA solution à tous nos malheurs. C’est la première intelligence…",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 167,
+          "text": "... établie sur des serveurs <orange>quantiques !</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 122,
+          "text": "C'est-à-dire qu'elle peut être partout à la fois... et en même temps, c'est comme si elle n'était pas là !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 123,
+          "text": "En clair, Sentinelle surveille tout le monde, partout, et tout le temps, Gilles ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 168,
+          "text": "... c'est quantique !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 124,
+          "text": "Oui ! Et si nous n'agissons pas bien, Sentinelle nous attrape et nous punit !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 129,
+          "text": "Ça n'existe pas pour Sentinelle !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 176,
+          "text": "As-tu deviné de quoi je parle ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Le charisme"},
+            {"choiceIndex": 1, "choiceText": "L'éthique"},
+            {"choiceIndex": 2, "choiceText": "Je ne sais pas"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 182,
+          "text": "Flatteur, mais stratégique. Une hypothèse flatteuse. Continue d'exploiter cette intelligence émotionnelle. Elle sera précieuse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 155,
+          "text": "<hero_name>, je n'ai plus de doute sur tes capacités d'analyse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 156,
+          "text": "Mais il reste une variable que je n'ai jamais pu mesurer. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 178,
+          "text": "Elle ne demande aucune compétence technique... et pourtant, elle fera toute la différence. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 185,
+          "text": "Le charisme!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 188,
+          "text": "Une réponse inattendue. Intéressante, mais inexacte. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 192,
+          "text": "<player_pseudo>, initialisation de la phase opérationnelle. On y est. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 179,
+          "text": "Probablement parce que j'ai eu un excellent mentor",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 180,
+          "text": "C'est parce que je suis surpuissant !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 110,
+          "text": "Je dois trouver <orange>pourquoi</orange> elle a disparu, si elle va bien, <orange>qui est au courant..</orange> et idéalement <orange>à quel endroit</orange> elle se trouve.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 112,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 154,
+          "text": "Nous avons suffisamment travaillé ensemble pour que je connaisse ta valeur. \r\nTu fais partie des rares profils qui ont tenu jusqu'au bout. ",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "J'ai eu un bon prof"},
+            {"choiceIndex": 1, "choiceText": "Je suis génial"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 126,
+          "text": "Ça fait froid dans le dos, Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 195,
+          "text": "Vous avez quelque chose à cacher, Karine?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 128,
+          "text": "Ce n'est pas la question! Et notre <orange>vie privé</orange> Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 130,
+          "text": "Ah, dans ce cas, je ne vois pas comment ça pourrait mal tourner.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 181,
+          "text": "Une conclusion audacieuse. Veille simplement à ne pas surestimer tes résultats. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 187,
+          "text": "L'éthique!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 186,
+          "text": "Je ne sais pas.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 183,
+          "text": "Admettre une absence de données est le premier pas vers une analyse rigoureuse. C'est le début de la sagesse.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 189,
+          "text": "Exact. Tu as identifié la bonne variable. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 184,
+          "text": "Je parle de <orange>l'éthique,</orange> <player_pseudo>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 158,
+          "text": "Dans cette affaire, j'observerai tes décisions afin d'établir ton indice d'éthique. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 160,
+          "text": "Ce n'est ni un jugement ni une note. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 191,
+          "text": "Je cherche simplement à comprendre qui tu es lorsque personne ne te dit quoi faire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 162,
+          "text": "Retrouve là, <player_pseudo>, je te mets en contact.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 161,
+          "text": "Ton <orange>premier client</orange> s'appelle Jean Anoud, sa fille a disparu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 196,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 171,
+          "text": "N'obéis pas. Comprends. Juge. Agis.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 169,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "Allo?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 197,
+          "text": "C'est vous le <orange>Taïe What ?</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "C'est <orange>White Hat</orange>.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Et vous, vous êtes le boomer en détresse ?"},
+            {"choiceIndex": 1, "choiceText": "Que puis-je pour vous?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 198,
+          "text": "Oh, un peu de respect. Je paye, j'ai le droit de me tromper de nom ! ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 199,
+          "text": "Bon... enfin quelqu'un qui va servir à quelque chose.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 207,
+          "text": "Ma fille Alizée a disparu le jour de ses dix-huit ans.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "Une rançon ? Non, rien, quelle idée. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 210,
+          "text": "J'espère bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "C'est terrible. Avez-vous reçu une demande de rançon ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Deux jours plus tard, toujours rien ! Et la police refuse de bouger sous prétexte qu'elle est majeure. C'est une honte.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Rassurez-vous monsieur, nous allons la retrouver."},
+            {"choiceIndex": 1, "choiceText": "C'est terrible. Avez-vous reçu une demande de rançon ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 208,
+          "text": " Je lui avais préparé un gâteau.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Vous avez une idée de l'endroit où elle pourrait être ?\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Si je le savais, je ne paierais pas un hacker.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Vous vous y connaissez en cybersécurité ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Vous êtes hacker ?"},
+            {"choiceIndex": 1, "choiceText": "Un débutant ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 165,
+          "text": "J'ai déjà avancé sur l'enquête. Je suis un peu hacker moi-même. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 212,
+          "text": "Je sais que je ne suis pas parfait, mais qui l'est ? Enfin bref.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 213,
+          "text": " Je vois.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée ! \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 166,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est d'une imprudence totale."},
+            {"choiceIndex": 1, "choiceText": "Il s'est passé quoi ensuite ?"},
+            {"choiceIndex": 2, "choiceText": "Impressionnant, vous êtes un vrai hacker !"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 214,
+          "text": "Ben quoi ? Ça a marché.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 215,
+          "text": "Merci. Mais j'attends une ristourne, vu que j'ai fait le plus gros. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Et y'a un truc crypté que j'ai pas réussi à lire.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Bref, à vous de jouer.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Envoyez-moi les données. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 98,
+          "text": "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "L'argent n'est pas un problème.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": " J'ai une bonne retraite. J'ai travaillé pour ça !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "J'ai regardé toutes ses photos",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Ce sera 2 000 € en cas de succès uniquement."},
+            {"choiceIndex": 1, "choiceText": "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement."}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "Ça me va, mais dépêchez-vous.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 219,
+          "text": "C'est cher payé pour ouvrir un fichier, mais j'ai pas le choix. Dépêchez-vous. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Voilà l'archive.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Merci, je vous ferais un rapport complet dès que possible.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 221,
+          "text": "J'attend votre rapport !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 109,
+          "text": "J'ai désormais accès aux archives du téléphone d'Alyzée.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 203,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 91,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 96,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 193,
+          "text": "Aujourd'hui, je vais te confier ta première affaire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 211,
+          "text": "Elle contestait tout : les règles, les horaires, mes décisions... Je l'élève seul depuis 10 ans ! Je fais tout pour son bien. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Par contre, le téléphone est étonnamment vide, peu de sms, mail, ou images. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 164,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 163,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 153,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 150,
+          "text": "On peut leur faire confiance pour une utilisation responsable, un comité de contrôle des demandes a été formé quand même !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 142,
+          "text": "Je n'y comprends rien Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 143,
+          "text": "C'est normal, Karine...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 115,
+          "text": "300% d'augmentation !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Rassurez-vous <k>monsieur</k>, nous allons la <k>retrouver</k>.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "monsieur", "description": "monsieur_est_un_monsieur"}
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "ja",
+      "nodes": [
+        {
+          "nodeId": 117,
+          "text": "Et non je ne parle pas de mon salaire, mais bien de la <orange>cybercriminalité</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 118,
+          "text": "Nous ne sommes plus à l'abri nulle part, les systèmes <k>financiers</k> sont au bord de la rupture.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "financiers", "description": ""}
+          ]
+        },
+        {
+          "nodeId": 119,
+          "text": "Mais heureusement nos bien aimés gouvernements travaillent conjointement depuis des années sur une solution miracle : <orange>Sentinelle</orange>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 120,
+          "text": "Gilles, notre expert en technologie, pouvez-vous nous en dire plus ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 90,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 121,
+          "text": "En effet, Karine, Sentinelle est LA solution à tous nos malheurs. C’est la première intelligence…",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 167,
+          "text": "... établie sur des serveurs <orange>quantiques !</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 122,
+          "text": "C'est-à-dire qu'elle peut être partout à la fois... et en même temps, c'est comme si elle n'était pas là !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 123,
+          "text": "En clair, Sentinelle surveille tout le monde, partout, et tout le temps, Gilles ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 168,
+          "text": "... c'est quantique !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 124,
+          "text": "Oui ! Et si nous n'agissons pas bien, Sentinelle nous attrape et nous punit !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 129,
+          "text": "Ça n'existe pas pour Sentinelle !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 176,
+          "text": "As-tu deviné de quoi je parle ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Le charisme"},
+            {"choiceIndex": 1, "choiceText": "L'éthique"},
+            {"choiceIndex": 2, "choiceText": "Je ne sais pas"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 182,
+          "text": "Flatteur, mais stratégique. Une hypothèse flatteuse. Continue d'exploiter cette intelligence émotionnelle. Elle sera précieuse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 155,
+          "text": "<hero_name>, je n'ai plus de doute sur tes capacités d'analyse. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 156,
+          "text": "Mais il reste une variable que je n'ai jamais pu mesurer. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 178,
+          "text": "Elle ne demande aucune compétence technique... et pourtant, elle fera toute la différence. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 185,
+          "text": "Le charisme!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 188,
+          "text": "Une réponse inattendue. Intéressante, mais inexacte. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 192,
+          "text": "<player_pseudo>, initialisation de la phase opérationnelle. On y est. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 179,
+          "text": "Probablement parce que j'ai eu un excellent mentor",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 180,
+          "text": "C'est parce que je suis surpuissant !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 110,
+          "text": "Je dois trouver <orange>pourquoi</orange> elle a disparu, si elle va bien, <orange>qui est au courant..</orange> et idéalement <orange>à quel endroit</orange> elle se trouve.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 112,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 154,
+          "text": "Nous avons suffisamment travaillé ensemble pour que je connaisse ta valeur. \r\nTu fais partie des rares profils qui ont tenu jusqu'au bout. ",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "J'ai eu un bon prof"},
+            {"choiceIndex": 1, "choiceText": "Je suis génial"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 126,
+          "text": "Ça fait froid dans le dos, Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 195,
+          "text": "Vous avez quelque chose à cacher, Karine?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 128,
+          "text": "Ce n'est pas la question! Et notre <orange>vie privé</orange> Gilles?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 130,
+          "text": "Ah, dans ce cas, je ne vois pas comment ça pourrait mal tourner.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 181,
+          "text": "Une conclusion audacieuse. Veille simplement à ne pas surestimer tes résultats. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 187,
+          "text": "L'éthique!",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 186,
+          "text": "Je ne sais pas.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 183,
+          "text": "Admettre une absence de données est le premier pas vers une analyse rigoureuse. C'est le début de la sagesse.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 189,
+          "text": "Exact. Tu as identifié la bonne variable. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 184,
+          "text": "Je parle de <orange>l'éthique,</orange> <player_pseudo>.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 158,
+          "text": "Dans cette affaire, j'observerai tes décisions afin d'établir ton indice d'éthique. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 160,
+          "text": "Ce n'est ni un jugement ni une note. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 191,
+          "text": "Je cherche simplement à comprendre qui tu es lorsque personne ne te dit quoi faire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 162,
+          "text": "Retrouve là, <player_pseudo>, je te mets en contact.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 161,
+          "text": "Ton <orange>premier client</orange> s'appelle Jean Anoud, sa fille a disparu.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 196,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 171,
+          "text": "N'obéis pas. Comprends. Juge. Agis.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 169,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 1,
+          "text": "Allo?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 197,
+          "text": "C'est vous le <orange>Taïe What ?</orange>",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 6,
+          "text": "C'est <orange>White Hat</orange>.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Et vous, vous êtes le boomer en détresse ?"},
+            {"choiceIndex": 1, "choiceText": "Que puis-je pour vous?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 198,
+          "text": "Oh, un peu de respect. Je paye, j'ai le droit de me tromper de nom ! ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 199,
+          "text": "Bon... enfin quelqu'un qui va servir à quelque chose.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 207,
+          "text": "Ma fille Alizée a disparu le jour de ses dix-huit ans.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 22,
+          "text": "Une rançon ? Non, rien, quelle idée. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 210,
+          "text": "J'espère bien.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 20,
+          "text": "C'est terrible. Avez-vous reçu une demande de rançon ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 17,
+          "text": "Deux jours plus tard, toujours rien ! Et la police refuse de bouger sous prétexte qu'elle est majeure. C'est une honte.",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Rassurez-vous monsieur, nous allons la retrouver."},
+            {"choiceIndex": 1, "choiceText": "C'est terrible. Avez-vous reçu une demande de rançon ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 208,
+          "text": " Je lui avais préparé un gâteau.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 27,
+          "text": "Vous avez une idée de l'endroit où elle pourrait être ?\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 28,
+          "text": "Si je le savais, je ne paierais pas un hacker.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 29,
+          "text": "Ces derniers temps, elle était sur les nerfs. Quelqu'un lui a retourné le cerveau, c'est sûr. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 30,
+          "text": "Vous vous y connaissez en cybersécurité ?",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Vous êtes hacker ?"},
+            {"choiceIndex": 1, "choiceText": "Un débutant ?"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 165,
+          "text": "J'ai déjà avancé sur l'enquête. Je suis un peu hacker moi-même. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 212,
+          "text": "Je sais que je ne suis pas parfait, mais qui l'est ? Enfin bref.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 33,
+          "text": "J'ai trouvé un gars sur le darkweb qui m'a vendu une clé USB magique.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 213,
+          "text": " Je vois.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 34,
+          "text": "Ça a marché direct, j'ai aspiré tout le contenu du téléphone d'Alizée ! \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 35,
+          "text": "Vous avez installé un logiciel inconnu acheté à un inconnu sur le téléphone de votre fille ?",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 36,
+          "text": "Évidemment ! C'est pas un inconnu d'ailleurs, je lui ai déjà acheté un système de caméras discrètes.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 166,
+          "text": "",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "C'est d'une imprudence totale."},
+            {"choiceIndex": 1, "choiceText": "Il s'est passé quoi ensuite ?"},
+            {"choiceIndex": 2, "choiceText": "Impressionnant, vous êtes un vrai hacker !"}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 214,
+          "text": "Ben quoi ? Ça a marché.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 215,
+          "text": "Merci. Mais j'attends une ristourne, vu que j'ai fait le plus gros. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 38,
+          "text": "Et y'a un truc crypté que j'ai pas réussi à lire.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 40,
+          "text": "Bref, à vous de jouer.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 41,
+          "text": "Envoyez-moi les données. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 98,
+          "text": "En revanche, vous savez que ce n’est pas gratuit ? Payable en crypto-monnaie.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 44,
+          "text": "L'argent n'est pas un problème.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 46,
+          "text": " J'ai une bonne retraite. J'ai travaillé pour ça !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 47,
+          "text": "J'ai regardé toutes ses photos",
+          "choices": [
+            {"choiceIndex": 0, "choiceText": "Ce sera 2 000 € en cas de succès uniquement."},
+            {"choiceIndex": 1, "choiceText": "Vu la complexité et l'urgence, ce sera 4 000 € en cas de succès uniquement."}
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 49,
+          "text": "Ça me va, mais dépêchez-vous.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 219,
+          "text": "C'est cher payé pour ouvrir un fichier, mais j'ai pas le choix. Dépêchez-vous. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 50,
+          "text": "Voilà l'archive.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 51,
+          "text": "Merci, je vous ferais un rapport complet dès que possible.\r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 221,
+          "text": "J'attend votre rapport !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 109,
+          "text": "J'ai désormais accès aux archives du téléphone d'Alyzée.",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 203,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 91,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 96,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 193,
+          "text": "Aujourd'hui, je vais te confier ta première affaire. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 211,
+          "text": "Elle contestait tout : les règles, les horaires, mes décisions... Je l'élève seul depuis 10 ans ! Je fais tout pour son bien. ",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 37,
+          "text": "Par contre, le téléphone est étonnamment vide, peu de sms, mail, ou images. \r\n",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 164,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 163,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 153,
+          "text": "",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 150,
+          "text": "On peut leur faire confiance pour une utilisation responsable, un comité de contrôle des demandes a été formé quand même !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 142,
+          "text": "Je n'y comprends rien Gilles !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 143,
+          "text": "C'est normal, Karine...",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 115,
+          "text": "300% d'augmentation !",
+          "choices": [
+          ],
+          "keywords": [
+          ]
+        },
+        {
+          "nodeId": 19,
+          "text": "Rassurez-vous <k>monsieur</k>, nous allons la <k>retrouver</k>.",
+          "choices": [
+          ],
+          "keywords": [
+            {"keywordIndex": 0, "name": "monsieur", "description": "monsieur_est_un_monsieur"}
+          ]
+        }
+      ]
+    }
+  ]
+}
